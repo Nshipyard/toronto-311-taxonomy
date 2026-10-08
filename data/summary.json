@@ -1,0 +1,170 @@
+{
+  "slice": "311 Service Requests - Customer Initiated, 2022-01-01 to 2026-10-07, retrieved 2026-10-08",
+  "total_requests": 2225151,
+  "status_counts": {
+    "Completed": 1695636,
+    "New": 91268,
+    "Cancelled": 239351,
+    "In Progress": 122929,
+    "Closed": 46218,
+    "Unknown": 29749
+  },
+  "divisions": [
+    {
+      "division": "311",
+      "requests": 33347
+    },
+    {
+      "division": "Environment",
+      "requests": 73909
+    },
+    {
+      "division": "Municipal Licensing & Standards",
+      "requests": 537968
+    },
+    {
+      "division": "Parks",
+      "requests": 98077
+    },
+    {
+      "division": "Parks and Recreation",
+      "requests": 8639
+    },
+    {
+      "division": "Solid Waste Management Services",
+      "requests": 711653
+    },
+    {
+      "division": "Toronto Water",
+      "requests": 172519
+    },
+    {
+      "division": "Transportation Services",
+      "requests": 574495
+    },
+    {
+      "division": "Unknown",
+      "requests": 14544
+    }
+  ],
+  "distinct_request_types": 952,
+  "backlog_definition": "Requests created 2022-2024 still in 'New' or 'In Progress' status in the October 2026 extract. 2025-2026 excluded as too recent to judge.",
+  "backlog_total_base": 1294275,
+  "backlog_total_open": 118460,
+  "backlog_by_division": [
+    {
+      "division": "311",
+      "backlog_base": 22247,
+      "backlog_open": 3395,
+      "backlog_rate": 0.1526
+    },
+    {
+      "division": "Municipal Licensing & Standards",
+      "backlog_base": 322821,
+      "backlog_open": 19346,
+      "backlog_rate": 0.0599
+    },
+    {
+      "division": "Parks",
+      "backlog_base": 98077,
+      "backlog_open": 43747,
+      "backlog_rate": 0.446
+    },
+    {
+      "division": "Solid Waste Management Services",
+      "backlog_base": 438442,
+      "backlog_open": 3568,
+      "backlog_rate": 0.0081
+    },
+    {
+      "division": "Toronto Water",
+      "backlog_base": 101363,
+      "backlog_open": 10677,
+      "backlog_rate": 0.1053
+    },
+    {
+      "division": "Transportation Services",
+      "backlog_base": 296781,
+      "backlog_open": 35026,
+      "backlog_rate": 0.118
+    },
+    {
+      "division": "Unknown",
+      "backlog_base": 14544,
+      "backlog_open": 2701,
+      "backlog_rate": 0.1857
+    }
+  ],
+  "backlog_income_correlation": 0.179,
+  "worst_backlog_ward": {
+    "code": "10",
+    "name": "Spadina-Fort York",
+    "rate": 0.1185
+  },
+  "best_backlog_ward": {
+    "code": "6",
+    "name": "York Centre",
+    "rate": 0.0691
+  },
+  "top_request_types": [
+    {
+      "type": "Injured - Wildlife",
+      "division": "Municipal Licensing & Standards",
+      "count": 75726
+    },
+    {
+      "type": "Residential: Bin: Repair or Replace Lid",
+      "division": "Solid Waste Management Services",
+      "count": 56278
+    },
+    {
+      "type": "Property Standards",
+      "division": "Municipal Licensing & Standards",
+      "count": 45228
+    },
+    {
+      "type": "Cadaver - Wildlife",
+      "division": "Municipal Licensing & Standards",
+      "count": 41894
+    },
+    {
+      "type": "Residential Bin Lid Damaged",
+      "division": "Solid Waste Management Services",
+      "count": 39071
+    },
+    {
+      "type": "Res / Garbage / Not Picked Up",
+      "division": "Solid Waste Management Services",
+      "count": 37098
+    },
+    {
+      "type": "Road Pothole / Road Damage",
+      "division": "Transportation Services",
+      "count": 35691
+    },
+    {
+      "type": "Sewer Service Line-Blocked",
+      "division": "Toronto Water",
+      "count": 35018
+    },
+    {
+      "type": "General Pruning",
+      "division": "Parks",
+      "count": 34545
+    },
+    {
+      "type": "Residential Furniture / Not Picked Up",
+      "division": "Solid Waste Management Services",
+      "count": 33476
+    }
+  ],
+  "income_source": "City of Toronto Ward Profiles workbook (2021 Census), median total household income 2020 ($)",
+  "methodology_notes": [
+    "No completion or close date exists in the open dataset, so median time-to-close cannot be computed. The backlog rate (old requests still open) is the closest measurable proxy for responsiveness.",
+    "Backlog uses the 2022-2024 creation cohort only; 2025-2026 requests are too recent to judge.",
+    "'Closed' and 'Completed' are distinct source statuses and are both treated as resolved; 'Cancelled' is excluded from the backlog base as not actionable.",
+    "Ward comes from the source 'Ward' field ('Name (NN)'); 43 rows have no ward and are excluded from ward analysis.",
+    "Income is the 2021 Census median total household income (2020 dollars) by ward from the City's Ward Profiles workbook. Correlation is descriptive, not causal.",
+    "Request types are normalized for case and whitespace only; wording is the City's own."
+  ]
+}

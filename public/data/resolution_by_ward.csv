@@ -1,0 +1,27 @@
+ward_code,ward_name,requests_2022_2026,backlog_base_2022_2024,backlog_open,backlog_rate,median_household_income_2020,top_division,top_division_share
+1,Etobicoke North,68947,40708,4058,0.0997,81000,Solid Waste Management Services,0.2935
+2,Etobicoke Centre,96453,56836,6229,0.1096,100000,Solid Waste Management Services,0.2846
+3,Etobicoke-Lakeshore,120181,72397,7580,0.1047,90000,Solid Waste Management Services,0.2822
+4,Parkdale-High Park,111913,65149,6773,0.104,85000,Solid Waste Management Services,0.339
+5,York South-Weston,91760,53229,4388,0.0824,72000,Solid Waste Management Services,0.3034
+6,York Centre,82889,46208,3194,0.0691,82000,Solid Waste Management Services,0.2759
+7,Humber River-Black Creek,59184,34672,2886,0.0832,73000,Solid Waste Management Services,0.3061
+8,Eglinton-Lawrence,110960,64879,5053,0.0779,97000,Solid Waste Management Services,0.3204
+9,Davenport,119549,68072,6514,0.0957,85000,Solid Waste Management Services,0.3722
+10,Spadina-Fort York,97415,57054,6763,0.1185,89000,Transportation Services,0.3249
+11,University-Rosedale,119280,68526,6900,0.1007,84000,Solid Waste Management Services,0.3455
+12,Toronto-St. Paul's,100192,57734,6471,0.1121,86000,Solid Waste Management Services,0.3174
+13,Toronto Centre,81721,45452,4456,0.098,65000,Municipal Licensing & Standards,0.3347
+14,Toronto-Danforth,131630,74825,6817,0.0911,93000,Solid Waste Management Services,0.3414
+15,Don Valley West,87580,51134,4275,0.0836,102000,Solid Waste Management Services,0.3266
+16,Don Valley East,51683,30149,2474,0.0821,78500,Solid Waste Management Services,0.3063
+17,Don Valley North,60746,36017,3046,0.0846,84000,Solid Waste Management Services,0.3546
+18,Willowdale,68471,39820,3934,0.0988,81000,Solid Waste Management Services,0.3191
+19,Beaches-East York,119028,69252,5772,0.0833,89000,Solid Waste Management Services,0.3627
+20,Scarborough Southwest,100186,59178,4494,0.0759,79000,Solid Waste Management Services,0.3391
+21,Scarborough Centre,83707,49871,3717,0.0745,78000,Solid Waste Management Services,0.3316
+22,Scarborough-Agincourt,55518,32041,2402,0.075,77000,Solid Waste Management Services,0.3317
+23,Scarborough North,53867,31527,2648,0.084,87000,Solid Waste Management Services,0.363
+24,Scarborough-Guildwood,67210,39295,3327,0.0847,78000,Solid Waste Management Services,0.3292
+25,Scarborough-Rouge Park,85038,50225,4287,0.0854,105000,Solid Waste Management Services,0.3937
+UNK,Unknown,43,25,2,0.08,,Municipal Licensing & Standards,0.4419

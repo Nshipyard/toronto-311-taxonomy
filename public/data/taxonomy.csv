@@ -1,0 +1,966 @@
+code,division_code,division,section_code,section,request_type,count,share
+T311-R0001,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Injured - Wildlife,75726,0.034032
+T311-R0002,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Bin: Repair or Replace Lid,56278,0.025292
+T311-R0003,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Property Standards,45228,0.020326
+T311-R0004,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Cadaver - Wildlife,41894,0.018827
+T311-R0005,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Bin Lid Damaged,39071,0.017559
+T311-R0006,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Garbage / Not Picked Up,37098,0.016672
+T311-R0007,T311-D08,Transportation Services,T311-S024,Road Operations,Road Pothole / Road Damage,35691,0.01604
+T311-R0008,T311-D07,Toronto Water,T311-S020,District Ops,Sewer Service Line-Blocked,35018,0.015737
+T311-R0009,T311-D04,Parks,T311-S012,Forestry & Recreation,General Pruning,34545,0.015525
+T311-R0010,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Furniture / Not Picked Up,33476,0.015044
+T311-R0011,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Property Standards and Maintenance Violations,32763,0.014724
+T311-R0012,T311-D08,Transportation Services,T311-S024,Road Operations,Road - Pot hole,31815,0.014298
+T311-R0013,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic Green Bin / Not Picked Up,30518,0.013715
+T311-R0014,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Recycle / Not Picked Up,28993,0.01303
+T311-R0015,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Amplified Sound,26109,0.011734
+T311-R0016,T311-D04,Parks,T311-S012,Forestry & Recreation,Storm Clean Up,25347,0.011391
+T311-R0017,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Pick up Dead Wildlife,25168,0.011311
+T311-R0018,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Bin: Repair or Replace Body/Handle,25090,0.011276
+T311-R0019,T311-D02,Environment,T311-S002,Climate & Forestry,General Pruning,23866,0.010726
+T311-R0020,T311-D08,Transportation Services,T311-S024,Road Operations,Sidewalk Snow Clearing Required,21503,0.009664
+T311-R0021,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: Missing,21097,0.009481
+T311-R0022,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Construction Noise,20123,0.009043
+T311-R0023,T311-D01,311,T311-S001,Operations,Publication Request - Solid Waste,20049,0.00901
+T311-R0024,T311-D02,Environment,T311-S002,Climate & Forestry,Tree Emergency Clean-Up,19521,0.008773
+T311-R0025,T311-D08,Transportation Services,T311-S024,Road Operations,Road - Cleaning/Debris,18013,0.008095
+T311-R0026,T311-D08,Transportation Services,T311-S024,Road Operations,Road Plowing Request,17368,0.007805
+T311-R0027,T311-D06,Solid Waste Management Services,T311-S015,Collections,All / Hazardous Waste / Pick Up Request,17213,0.007736
+T311-R0028,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: Missing,16855,0.007575
+T311-R0029,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Long Grass and Weeds,16600,0.00746
+T311-R0030,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Bin Body or Handle Damaged,16540,0.007433
+T311-R0031,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: Exchange to Large,16291,0.007321
+T311-R0032,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: Exchange to Medium,16286,0.007319
+T311-R0033,T311-D08,Transportation Services,T311-S025,TMC,Missing/Damaged Signs,15975,0.007179
+T311-R0034,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Zoning,15434,0.006936
+T311-R0035,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter / Illegal Dumping Cleanup,14774,0.00664
+T311-R0036,T311-D08,Transportation Services,T311-S024,Road Operations,Catch Basin - Blocked / Flooding,14478,0.006507
+T311-R0037,T311-D06,Solid Waste Management Services,T311-S015,Collections,Bin Investigation Request,14208,0.006385
+T311-R0038,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Waste,12997,0.005841
+T311-R0039,T311-D08,Transportation Services,T311-S024,Road Operations,Driveway Blocked By Plowed Snowbank,12772,0.00574
+T311-R0040,T311-D08,Transportation Services,T311-S025,TMC,Traffic Signal Maintenance,12614,0.005669
+T311-R0041,T311-D08,Transportation Services,T311-S024,Road Operations,Road - Sinking,12592,0.005659
+T311-R0042,T311-D06,Solid Waste Management Services,T311-S015,Collections,Clean up Illegal Dumping on City Road Allowance,12581,0.005654
+T311-R0043,T311-D08,Transportation Services,T311-S024,Road Operations,Sidewalk - Cleaning,12254,0.005507
+T311-R0044,T311-D08,Transportation Services,T311-S024,Road Operations,Clean up Debris on Road,12248,0.005504
+T311-R0045,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Complaint/Investigation - Encroachment,11790,0.005299
+T311-R0046,T311-D07,Toronto Water,T311-S020,District Ops,Water Service Line-Check Water Service Box,11704,0.00526
+T311-R0047,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Long Grass and Prohibited Plants on Private Property,11689,0.005253
+T311-R0048,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential / Yard Waste / Not Picked Up,11601,0.005214
+T311-R0049,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic Bin / Replace Missing,11430,0.005137
+T311-R0050,T311-D07,Toronto Water,T311-S020,District Ops,Water Service Line-Turn Off,11082,0.00498
+T311-R0051,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Unreasonable and Persistent Noise,10971,0.00493
+T311-R0052,T311-D08,Transportation Services,T311-S025,TMC,Traffic Signal Repair,10911,0.004903
+T311-R0053,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: Exchange to Extra Large,10343,0.004648
+T311-R0054,T311-D06,Solid Waste Management Services,T311-S015,Collections,Hazardous Waste Pick-up,10292,0.004625
+T311-R0055,T311-D04,Parks,T311-S012,Forestry & Recreation,Stemming,9930,0.004463
+T311-R0056,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Amplified or Musical Instrument Noise,9859,0.004431
+T311-R0057,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Waste or Illegal Dumping on Private Property,9790,0.0044
+T311-R0058,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Zoning Regulations Violations,9787,0.004398
+T311-R0059,T311-D08,Transportation Services,T311-S024,Road Operations,Sidewalk - Snow Clearing,9718,0.004367
+T311-R0060,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Report an Encroachment on City Property,9216,0.004142
+T311-R0061,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential:Recycle Bin:Exchange to Extra Large,8980,0.004036
+T311-R0062,T311-D06,Solid Waste Management Services,T311-S015,Collections,Dispute SR Status/Collections Curb Day,8931,0.004014
+T311-R0063,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: Exchange to Small,8922,0.00401
+T311-R0064,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter / Bin / Overflow or Not Picked Up,8916,0.004007
+T311-R0065,T311-D07,Toronto Water,T311-S020,District Ops,Watermain-Possible Break,8810,0.003959
+T311-R0066,T311-D08,Transportation Services,T311-S024,Road Operations,Road Ploughing Required,8677,0.0039
+T311-R0067,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: Additional Extra Large,8671,0.003897
+T311-R0068,T311-D08,Transportation Services,T311-S024,Road Operations,Boulevard - Plough Damage,8405,0.003777
+T311-R0069,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Adequate Heat,8320,0.003739
+T311-R0070,T311-D07,Toronto Water,T311-S020,District Ops,Water Service Line-Turn On,8060,0.003622
+T311-R0071,T311-D07,Toronto Water,T311-S020,District Ops,Water Service Line-Leaking,8036,0.003611
+T311-R0072,T311-D07,Toronto Water,T311-S020,District Ops,Water Service Line-No Water,7977,0.003585
+T311-R0073,T311-D08,Transportation Services,T311-S024,Road Operations,Sidewalk - Damaged / Concrete,7905,0.003553
+T311-R0074,T311-D06,Solid Waste Management Services,T311-S015,Collections,Replace Missing Residential Organic Bin,7584,0.003408
+T311-R0075,T311-D02,Environment,T311-S002,Climate & Forestry,Residential or Park Tree Removal,7378,0.003316
+T311-R0076,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Illegal Off-Street Parking,7288,0.003275
+T311-R0077,T311-D08,Transportation Services,T311-S024,Road Operations,Boulevards - Damaged Asphalt,7081,0.003182
+T311-R0078,T311-D07,Toronto Water,T311-S020,District Ops,Water Service Line-Turn Off/Burst,6836,0.003072
+T311-R0079,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Wrong Location/Time/Day,6728,0.003024
+T311-R0080,T311-D08,Transportation Services,T311-S024,Road Operations,Street Furniture Request,6523,0.002931
+T311-R0081,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic Green Bin / Multiple Addresses / Not Picked Up,6429,0.002889
+T311-R0082,T311-D08,Transportation Services,T311-S024,Road Operations,Outcome of Service - Complaint - Road Operations,6394,0.002874
+T311-R0083,T311-D08,Transportation Services,T311-S024,Road Operations,Boulevards-Grass Cutting,6285,0.002825
+T311-R0084,T311-D08,Transportation Services,T311-S024,Road Operations,Road - Damaged,6225,0.002798
+T311-R0085,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: Exchange to Large,6220,0.002795
+T311-R0086,T311-D07,Toronto Water,T311-S020,District Ops,Request Water Service Turn Off,6176,0.002776
+T311-R0087,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Stray - Confined,6131,0.002755
+T311-R0088,T311-D08,Transportation Services,T311-S024,Road Operations,Damaged Concrete Sidewalk,6061,0.002724
+T311-R0089,T311-D06,Solid Waste Management Services,T311-S015,Collections,Staff Conduct/Collections Curb Day,6024,0.002707
+T311-R0090,T311-D08,Transportation Services,T311-S024,Road Operations,Driveway-Blocked By Windrow,5964,0.00268
+T311-R0091,T311-D08,Transportation Services,T311-S025,TMC,Missing / Damaged Street or Traffic Signs,5905,0.002654
+T311-R0092,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Moving Motor Vehicle Noise,5891,0.002647
+T311-R0093,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Garbage Day Collection - Not Picked Up,5859,0.002633
+T311-R0094,T311-D04,Parks,T311-S012,Forestry & Recreation,By-Law Contravention Invest,5852,0.00263
+T311-R0095,T311-D04,Parks,T311-S012,Forestry & Recreation,General Tree Maintenance,5807,0.00261
+T311-R0096,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Front End Loaded Oversized Items Not Picked Up,5772,0.002594
+T311-R0097,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Noise,5686,0.002555
+T311-R0098,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Bin: Wrong Delivery,5551,0.002495
+T311-R0099,T311-D08,Transportation Services,T311-S024,Road Operations,Road-Winter Request/ Complaint,5522,0.002482
+T311-R0100,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter / Sidewalk & Blvd / Pick Up Request,5510,0.002476
+T311-R0101,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Oversized/Electronics Item Day Collection Not Picked Up,5457,0.002452
+T311-R0102,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Signs,5454,0.002451
+T311-R0103,T311-D03,Municipal Licensing & Standards,T311-S003,Business Licensing Enforcement,Business Complaint,5363,0.00241
+T311-R0104,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Amplified Sound or Instrument Sound,5323,0.002392
+T311-R0105,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic Bin / Additional,5321,0.002391
+T311-R0106,T311-D06,Solid Waste Management Services,T311-S015,Collections,Curb Day Collection - Complaint - Solid Waste Management,5273,0.00237
+T311-R0107,T311-D08,Transportation Services,T311-S024,Road Operations,Complaint-Outcome of the Service,5268,0.002367
+T311-R0108,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Graffiti,5093,0.002289
+T311-R0109,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Graffiti on Private Property,5067,0.002277
+T311-R0110,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Waste Set Out - Wrong Location / Time/ Day,5049,0.002269
+T311-R0111,T311-D07,Toronto Water,T311-S020,District Ops,Water Service Line - Low Pressure|| Low Flow - Ongoing,5034,0.002262
+T311-R0112,T311-D08,Transportation Services,T311-S027,Traffic Ops,Investigate Regulatory Signs,5008,0.002251
+T311-R0113,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Park Use,4938,0.002219
+T311-R0114,T311-D08,Transportation Services,T311-S024,Road Operations,Contractor Complaint,4934,0.002217
+T311-R0115,T311-D08,Transportation Services,T311-S024,Road Operations,Maintenance Holes Lid Loose/Missing,4928,0.002215
+T311-R0116,T311-D08,Transportation Services,T311-S024,Road Operations,Complaint regarding Contractor,4863,0.002185
+T311-R0117,T311-D06,Solid Waste Management Services,T311-S015,Collections,FEL Multi-Res Furniture / Not Picked Up,4793,0.002154
+T311-R0118,T311-D03,Municipal Licensing & Standards,T311-S003,Business Licensing Enforcement,Public Spaces Complaint,4790,0.002153
+T311-R0119,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Stray - At Large,4773,0.002145
+T311-R0120,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Bin: Repair or Replace Wheel,4736,0.002128
+T311-R0121,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Injured - Domestic,4656,0.002092
+T311-R0122,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Garbage Front-End / Not Picked Up,4654,0.002092
+T311-R0123,T311-D02,Environment,T311-S002,Climate & Forestry,General Tree Maintenance,4619,0.002076
+T311-R0124,T311-D08,Transportation Services,T311-S024,Road Operations,Boulevard Plow Damage,4612,0.002073
+T311-R0125,T311-D07,Toronto Water,T311-S020,District Ops,Request Water Service Turn On,4495,0.00202
+T311-R0126,T311-D08,Transportation Services,T311-S024,Road Operations,Icy Sidewalk Needs Salting,4474,0.002011
+T311-R0127,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Organics Not Picked Up,4392,0.001974
+T311-R0128,T311-D04,Parks,T311-S012,Forestry & Recreation,Dangerous Private Tree Investigation,4329,0.001945
+T311-R0129,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Garbage / Multiple Addresses Not Picked Up,4287,0.001927
+T311-R0130,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Animal Noise,4209,0.001892
+T311-R0131,T311-D06,Solid Waste Management Services,T311-S015,Collections,Clean up Litter on Sidewalks and Boulevards,4205,0.00189
+T311-R0132,T311-D06,Solid Waste Management Services,T311-S015,Collections,Additional Residential Organic Bin,4202,0.001888
+T311-R0133,T311-D06,Solid Waste Management Services,T311-S015,Collections,Curb Day Collection Staff - Complaint - Solid Waste Management,4144,0.001862
+T311-R0134,T311-D02,Environment,T311-S002,Climate & Forestry,Unauthorized Tree Injury or Removal,4143,0.001862
+T311-R0135,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Animal Care,4138,0.00186
+T311-R0136,T311-D08,Transportation Services,T311-S025,TMC,Missing/Faded Pavement Markings,4080,0.001834
+T311-R0137,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: Exchange to Medium,4071,0.00183
+T311-R0138,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Postering City Property/Structures,4048,0.001819
+T311-R0139,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Bin: Wrong Delivery or Bin Return,4034,0.001813
+T311-R0140,T311-D08,Transportation Services,T311-S024,Road Operations,Sidewalk Icy|| Needs Sand/Salt,3959,0.001779
+T311-R0141,T311-D09,Unknown,T311-S029,Unknown,Unknown - MLSBLEMMVN,3913,0.001759
+T311-R0142,T311-D08,Transportation Services,T311-S024,Road Operations,Driveway - Damaged / Ponding,3909,0.001757
+T311-R0143,T311-D02,Environment,T311-S002,Climate & Forestry,Dangerous Private Tree Investigation,3895,0.00175
+T311-R0144,T311-D08,Transportation Services,T311-S024,Road Operations,Complaint-Time Line of the Service,3873,0.001741
+T311-R0145,T311-D07,Toronto Water,T311-S020,District Ops,Sink Hole,3843,0.001727
+T311-R0146,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Yard Waste Multiple Addresses / Not Picked Up,3796,0.001706
+T311-R0147,T311-D08,Transportation Services,T311-S025,TMC,Missing/Damaged/Faded/Relocating Street Name or Traffic Signs,3791,0.001704
+T311-R0148,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Recycle / Multiple Addresses / Not Picked Up,3787,0.001702
+T311-R0149,T311-D01,311,T311-S001,Operations,Registration - Toronto Water,3709,0.001667
+T311-R0150,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Postering City Property / Structures,3691,0.001659
+T311-R0151,T311-D08,Transportation Services,T311-S024,Road Operations,Roadway Utility Cut - Settlement,3621,0.001627
+T311-R0152,T311-D04,Parks,T311-S012,Forestry & Recreation,Tree Planting,3559,0.001599
+T311-R0153,T311-D07,Toronto Water,T311-S020,District Ops,Water Service Line - Low Pressure|| Low Flow Inspection - (Sudden),3551,0.001596
+T311-R0154,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential / XMAS Tree / Not Picked Up,3488,0.001568
+T311-R0155,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Cadaver - Domestic,3391,0.001524
+T311-R0156,T311-D08,Transportation Services,T311-S024,Road Operations,Maintenance Holes -Damage / Repair,3379,0.001519
+T311-R0157,T311-D06,Solid Waste Management Services,T311-S015,Collections,Dispute SR Status/Bins,3364,0.001512
+T311-R0158,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Ice and Snow Complaint,3336,0.001499
+T311-R0159,T311-D08,Transportation Services,T311-S024,Road Operations,Road Salting Request,3311,0.001488
+T311-R0160,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Dogs off Leash,3270,0.00147
+T311-R0161,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: Exchange to Extra Large,3267,0.001468
+T311-R0162,T311-D07,Toronto Water,T311-S020,District Ops,Hydrant-Leaking,3257,0.001464
+T311-R0163,T311-D08,Transportation Services,T311-S024,Road Operations,Curb - Damaged,3240,0.001456
+T311-R0164,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Bin Wheel Damaged,3190,0.001434
+T311-R0165,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: Additional Extra Large,3183,0.00143
+T311-R0166,T311-D08,Transportation Services,T311-S024,Road Operations,Snow Removal - Sightline Problem,3162,0.001421
+T311-R0167,T311-D01,311,T311-S001,Operations,Staff Service Complaint,3156,0.001418
+T311-R0168,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Fence,3146,0.001414
+T311-R0169,T311-D07,Toronto Water,T311-S020,District Ops,District Operations-Timeliness,3138,0.00141
+T311-R0170,T311-D07,Toronto Water,T311-S020,District Ops,Timeliness - Complaint - Toronto Water,3135,0.001409
+T311-R0171,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic&Garbage / Not Picked Up,3063,0.001377
+T311-R0172,T311-D08,Transportation Services,T311-S024,Road Operations,Walkway - damaged,3051,0.001371
+T311-R0173,T311-D07,Toronto Water,T311-S020,District Ops,Sewer Odour,3049,0.00137
+T311-R0174,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Stationary Source Noise,3034,0.001364
+T311-R0175,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Illegal Snow Dumping & Failure to Clear Snow or Ice on Public Sidewalk,3021,0.001358
+T311-R0176,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Animal to Human Bite,2970,0.001335
+T311-R0177,T311-D08,Transportation Services,T311-S024,Road Operations,Sidewalk - Graffiti Complaint,2912,0.001309
+T311-R0178,T311-D08,Transportation Services,T311-S024,Road Operations,Bus Stops Snow Clearing Required,2890,0.001299
+T311-R0179,T311-D08,Transportation Services,T311-S024,Road Operations,Laneway - Surface Damage,2882,0.001295
+T311-R0180,T311-D08,Transportation Services,T311-S024,Road Operations,Walkway - Damaged or Uneven,2873,0.001291
+T311-R0181,T311-D07,Toronto Water,T311-S020,District Ops,Restoration Related,2809,0.001262
+T311-R0182,T311-D08,Transportation Services,T311-S024,Road Operations,Snow Removal - General,2772,0.001246
+T311-R0183,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter / Laneway / Clean Up,2706,0.001216
+T311-R0184,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic&Recycle / Not Picked Up,2670,0.0012
+T311-R0185,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Menace,2632,0.001183
+T311-R0186,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: Additional Large,2563,0.001152
+T311-R0187,T311-D06,Solid Waste Management Services,T311-S015,Collections,Spills/Cleanup/Collections Curb Day,2521,0.001133
+T311-R0188,T311-D07,Toronto Water,T311-S020,District Ops,Hydrant-Damage,2485,0.001117
+T311-R0189,T311-D08,Transportation Services,T311-S024,Road Operations,Road - Sanding / Salting Required,2451,0.001101
+T311-R0190,T311-D06,Solid Waste Management Services,T311-S017,Litter Operations,Litter/Needle Cleanup,2443,0.001098
+T311-R0191,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Illegal Dumping,2426,0.00109
+T311-R0192,T311-D08,Transportation Services,T311-S024,Road Operations,Road - Graffiti Complaint,2386,0.001072
+T311-R0193,T311-D07,Toronto Water,T311-S020,District Ops,Maintenance Hole-Damage,2383,0.001071
+T311-R0194,T311-D08,Transportation Services,T311-S024,Road Operations,Illegal Dumping on Roadside,2362,0.001062
+T311-R0195,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Complaint / Investigation - Idling Enforcement,2331,0.001048
+T311-R0196,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Complaint / Investigation - Grass and Weeds Enforcement,2298,0.001033
+T311-R0197,T311-D08,Transportation Services,T311-S024,Road Operations,Illegal Dumping on Road,2275,0.001022
+T311-R0198,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Election Signs,2272,0.001021
+T311-R0199,T311-D08,Transportation Services,T311-S027,Traffic Ops,Investigate Temporary Condition Signs,2255,0.001013
+T311-R0200,T311-D08,Transportation Services,T311-S024,Road Operations,Catch Basin - Debris / Litter,2225,0.001
+T311-R0201,T311-D08,Transportation Services,T311-S027,Traffic Ops,Sight Line Obstruction,2209,0.000993
+T311-R0202,T311-D07,Toronto Water,T311-S020,District Ops,District Operations-Restoration,2182,0.000981
+T311-R0203,T311-D08,Transportation Services,T311-S024,Road Operations,Road Water Ponding,2177,0.000978
+T311-R0204,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Recycle Front-End / Not Picked Up,2163,0.000972
+T311-R0205,T311-D08,Transportation Services,T311-S024,Road Operations,Boulevards - Snow Piled Too High / Too Much,2162,0.000972
+T311-R0206,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential / Yard Waste / Missed,2151,0.000967
+T311-R0207,T311-D08,Transportation Services,T311-S024,Road Operations,Laneway Needs Salting,2118,0.000952
+T311-R0208,T311-D08,Transportation Services,T311-S024,Road Operations,Bridge - Graffiti Complaint,2102,0.000945
+T311-R0209,T311-D08,Transportation Services,T311-S024,Road Operations,Snow at Intersections - Impeded Mobility,2076,0.000933
+T311-R0210,T311-D06,Solid Waste Management Services,T311-S015,Collections,Bins - Complaint - Solid Waste Management,2063,0.000927
+T311-R0211,T311-D07,Toronto Water,T311-S020,District Ops,District Operations-Process,2036,0.000915
+T311-R0212,T311-D08,Transportation Services,T311-S024,Road Operations,Boulevards - Weed Removal,2036,0.000915
+T311-R0213,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Pick up Dead Domestic Animals,2032,0.000913
+T311-R0214,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Complaint / Investigation - Water Discharge,2031,0.000913
+T311-R0215,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Waste Storage,2000,0.000899
+T311-R0216,T311-D08,Transportation Services,T311-S024,Road Operations,Sidewalk - Damaged /Brick/Interlock,1987,0.000893
+T311-R0217,T311-D08,Transportation Services,T311-S024,Road Operations,Curb - Adjust Height (Too High/Low),1981,0.00089
+T311-R0218,T311-D08,Transportation Services,T311-S025,TMC,Traffic Signal - Graffiti Complaint,1977,0.000888
+T311-R0219,T311-D08,Transportation Services,T311-S024,Road Operations,Timeliness of Service - Complaint - Road Operations,1960,0.000881
+T311-R0220,T311-D08,Transportation Services,T311-S027,Traffic Ops,Intersection Safety Review,1955,0.000879
+T311-R0221,T311-D08,Transportation Services,T311-S024,Road Operations,Process and Procedures - Complaint - Road Operations,1951,0.000877
+T311-R0222,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic Bin / New Account,1937,0.000871
+T311-R0223,T311-D06,Solid Waste Management Services,T311-S017,Litter Operations,Clean up Needles or Syringes,1914,0.00086
+T311-R0224,T311-D07,Toronto Water,T311-S020,District Ops,Process or Procedure - Complaint - Toronto Water,1902,0.000855
+T311-R0225,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Furniture Pile / Not Picked Up,1888,0.000848
+T311-R0226,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter / Bike Removal Inquiry,1854,0.000833
+T311-R0227,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - No Leash,1853,0.000833
+T311-R0228,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Long Grass and Weeds on the Boulevard,1850,0.000831
+T311-R0229,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Illegal On-Street Parking,1833,0.000824
+T311-R0230,T311-D07,Toronto Water,T311-S020,District Ops,Sewer Service Line-Cleanout Repair,1831,0.000823
+T311-R0231,T311-D09,Unknown,T311-S029,Unknown,Unknown - TS-STFURN-REQ,1817,0.000817
+T311-R0232,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Dog Frequently At Large,1816,0.000816
+T311-R0233,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Power Device Noise,1815,0.000816
+T311-R0234,T311-D08,Transportation Services,T311-S024,Road Operations,Walkway-Weeds Need Cutting,1811,0.000814
+T311-R0235,T311-D08,Transportation Services,T311-S024,Road Operations,Staff Service - Complaint - Road Operations,1787,0.000803
+T311-R0236,T311-D07,Toronto Water,T311-S020,District Ops,Water Quality-Discoloured (Rusty or dirty) Water,1775,0.000798
+T311-R0237,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Illegal Dumping on City Property,1771,0.000796
+T311-R0238,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Animal to Animal Bite,1755,0.000789
+T311-R0239,T311-D07,Toronto Water,T311-S020,District Ops,Pollution Spill Response,1718,0.000772
+T311-R0240,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Stationary Source and Residential Air Conditioner Noise,1718,0.000772
+T311-R0241,T311-D01,311,T311-S001,Operations,Lead Water Testing Kit Registration,1713,0.00077
+T311-R0242,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Dog Off-Leash in a City Park,1698,0.000763
+T311-R0243,T311-D04,Parks,T311-S012,Forestry & Recreation,Commercial Tree Pruning,1688,0.000759
+T311-R0244,T311-D08,Transportation Services,T311-S024,Road Operations,Roadside - Plough Damage,1664,0.000748
+T311-R0245,T311-D07,Toronto Water,T311-S019,Business Operations Management,Water Service Test for High Lead Content,1661,0.000746
+T311-R0246,T311-D04,Parks,T311-S012,Forestry & Recreation,Bees/Wasp,1625,0.00073
+T311-R0247,T311-D08,Transportation Services,T311-S024,Road Operations,School Zone Snow Clearing,1606,0.000722
+T311-R0248,T311-D08,Transportation Services,T311-S024,Road Operations,Complaint-Process and Procedures,1584,0.000712
+T311-R0249,T311-D08,Transportation Services,T311-S025,TMC,Traffic Signal Equipment - Graffiti Complaint,1582,0.000711
+T311-R0250,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Dog Excrement,1569,0.000705
+T311-R0251,T311-D08,Transportation Services,T311-S025,TMC,PXO Maintenance,1554,0.000698
+T311-R0252,T311-D08,Transportation Services,T311-S024,Road Operations,Bike Lane Winter Maintenance Required,1530,0.000688
+T311-R0253,T311-D08,Transportation Services,T311-S028,Traffic Safety,Complaint - Crossing Guard Conduct,1528,0.000687
+T311-R0254,T311-D08,Transportation Services,T311-S024,Road Operations,Walkway Snow Clearing/Salting Request,1522,0.000684
+T311-R0255,T311-D02,Environment,T311-S002,Climate & Forestry,Commercial Tree - Emergency Clean-up,1516,0.000681
+T311-R0256,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Motor Vehicle Noise,1504,0.000676
+T311-R0257,T311-D08,Transportation Services,T311-S027,Traffic Ops,Signal Timing Review/Vehicle Delays,1485,0.000667
+T311-R0258,T311-D07,Toronto Water,T311-S020,District Ops,Catch basin (Storm)-Overflowing,1480,0.000665
+T311-R0259,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Complaint / Investigation - Leaves,1478,0.000664
+T311-R0260,T311-D05,Parks and Recreation,T311-S013,Parks,Park Litter and Garbage,1470,0.000661
+T311-R0261,T311-D06,Solid Waste Management Services,T311-S015,Collections,FEL Non-Res / Garbage / Not Picked Up,1467,0.000659
+T311-R0262,T311-D09,Unknown,T311-S029,Unknown,Unknown - SRVCR,1455,0.000654
+T311-R0263,T311-D06,Solid Waste Management Services,T311-S015,Collections,Clean up Litter on Laneways,1443,0.000648
+T311-R0264,T311-D06,Solid Waste Management Services,T311-S015,Collections,Dispute SR Status/Collections FEL,1429,0.000642
+T311-R0265,T311-D08,Transportation Services,T311-S027,Traffic Ops,Traffic Calming Measures,1427,0.000641
+T311-R0266,T311-D03,Municipal Licensing & Standards,T311-S003,Business Licensing Enforcement,Taxi|| Limo Complaint,1421,0.000639
+T311-R0267,T311-D04,Parks,T311-S012,Forestry & Recreation,Stumping,1414,0.000635
+T311-R0268,T311-D06,Solid Waste Management Services,T311-S015,Collections,Clean up Overflowing Street Litter Bin,1399,0.000629
+T311-R0269,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Attack to Human,1374,0.000617
+T311-R0270,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Multi-Tenant Houses Licensing and Violations,1354,0.000608
+T311-R0271,T311-D08,Transportation Services,T311-S024,Road Operations,Expressway requires cleaning.,1348,0.000606
+T311-R0272,T311-D08,Transportation Services,T311-S024,Road Operations,Catch Basin - Damaged Maintenance Requested,1347,0.000605
+T311-R0273,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Dog Off-Leash,1344,0.000604
+T311-R0274,T311-D08,Transportation Services,T311-S025,TMC,Missing/Damaged/Faded Emergency Traffic Signs,1342,0.000603
+T311-R0275,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: Additional Large,1307,0.000587
+T311-R0276,T311-D08,Transportation Services,T311-S027,Traffic Ops,Disabled Persons' Parking Space,1282,0.000576
+T311-R0277,T311-D08,Transportation Services,T311-S024,Road Operations,Clean up Illegal Dumping on Roadways and Bridge Underpass,1281,0.000576
+T311-R0278,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Investigate Mud or Water Discharge on the Street Allowance,1269,0.00057
+T311-R0279,T311-D01,311,T311-S001,Operations,Staff Service - Complaint - 311 Toronto,1243,0.000559
+T311-R0280,T311-D08,Transportation Services,T311-S024,Road Operations,Street furniture damaged,1235,0.000555
+T311-R0281,T311-D08,Transportation Services,T311-S027,Traffic Ops,Investigate Warning Signs,1232,0.000554
+T311-R0282,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Containers,1224,0.00055
+T311-R0283,T311-D02,Environment,T311-S002,Climate & Forestry,Bees/Wasp,1213,0.000545
+T311-R0284,T311-D08,Transportation Services,T311-S024,Road Operations,Roadside Utility Cut - Settlement,1211,0.000544
+T311-R0285,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: Exchange to Small,1201,0.00054
+T311-R0286,T311-D08,Transportation Services,T311-S026,Traffic Management,Vehicle Traffic Signal Issue,1191,0.000535
+T311-R0287,T311-D08,Transportation Services,T311-S027,Traffic Ops,Investigate Pavement Markings,1189,0.000534
+T311-R0288,T311-D07,Toronto Water,T311-S020,District Ops,Pollution Spill & Illegal Dumping Response,1177,0.000529
+T311-R0289,T311-D02,Environment,T311-S002,Climate & Forestry,Commercial Tree Pruning,1170,0.000526
+T311-R0290,T311-D08,Transportation Services,T311-S024,Road Operations,Culverts - Blocked,1159,0.000521
+T311-R0291,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Services - Protective Custody,1155,0.000519
+T311-R0292,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Attack to Animal,1124,0.000505
+T311-R0293,T311-D07,Toronto Water,T311-S020,District Ops,Water Meter Strong Leak or Burst,1121,0.000504
+T311-R0294,T311-D01,311,T311-S001,Operations,Staff Service Compliment,1119,0.000503
+T311-R0295,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Garbage Cart / Not Picked Up,1111,0.000499
+T311-R0296,T311-D02,Environment,T311-S002,Climate & Forestry,New Tree Planting,1111,0.000499
+T311-R0297,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Prohibited Waste,1085,0.000488
+T311-R0298,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Organic FEL / Not Picked Up,1082,0.000486
+T311-R0299,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Unsanitary Conditions,1079,0.000485
+T311-R0300,T311-D08,Transportation Services,T311-S025,TMC,Missing/Damaged Flexible Bollards,1076,0.000484
+T311-R0301,T311-D02,Environment,T311-S002,Climate & Forestry,Integrated Pest Management Inspection,1066,0.000479
+T311-R0302,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Loading and Unloading Noise,1060,0.000476
+T311-R0303,T311-D07,Toronto Water,T311-S020,District Ops,Catch basin (Storm) - Overflowing,1048,0.000471
+T311-R0304,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: New Account Extra Large,1042,0.000468
+T311-R0305,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Org&Recycle Multiple Addresses / Not Picked Up,1036,0.000466
+T311-R0306,T311-D01,311,T311-S001,Operations,Comment / Suggestion,1035,0.000465
+T311-R0307,T311-D06,Solid Waste Management Services,T311-S015,Collections,Garbage / Park / Bin Overflow,1019,0.000458
+T311-R0308,T311-D08,Transportation Services,T311-S024,Road Operations,Dead Animal On Expressway,1017,0.000457
+T311-R0309,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Waste Storage on a Multi-residential / Commercial Property,1016,0.000457
+T311-R0310,T311-D08,Transportation Services,T311-S025,TMC,Traffic Sign - Graffiti Complaint,1014,0.000456
+T311-R0311,T311-D07,Toronto Water,T311-S019,Business Operations Management,Toronto Water Service Card Request,1014,0.000456
+T311-R0312,T311-D07,Toronto Water,T311-S020,District Ops,Maintenance Hole - Overflowing,1007,0.000453
+T311-R0313,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Garbage / Not Picked Up,1001,0.00045
+T311-R0314,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Permitted or Exempted Noise,1001,0.00045
+T311-R0315,T311-D08,Transportation Services,T311-S024,Road Operations,Walkway - Snow Clearing/ Salting required,1000,0.000449
+T311-R0316,T311-D03,Municipal Licensing & Standards,T311-S004,Bylaw Enforcement,Stationary Motor Vehicle Noise,984,0.000442
+T311-R0317,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Bylaw Enforcement: Excavation,982,0.000441
+T311-R0318,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Org&Garbage Multiple Addresses / Not Picked Up,975,0.000438
+T311-R0319,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Garbage Front&Side / Not Picked Up,965,0.000434
+T311-R0320,T311-D08,Transportation Services,T311-S024,Road Operations,Traffic Island-Grass Needs Cutting,963,0.000433
+T311-R0321,T311-D07,Toronto Water,T311-S019,Business Operations Management,Lead Water Pipes Record Search,956,0.00043
+T311-R0322,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Yard Waste Whole Street Not Picked Up,950,0.000427
+T311-R0323,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: Additional Medium,948,0.000426
+T311-R0324,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Encroachments,928,0.000417
+T311-R0325,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-residential Front End Loaded Garbage Not Picked Up,923,0.000415
+T311-R0326,T311-D08,Transportation Services,T311-S027,Traffic Ops,New Traffic Control Signal Request,920,0.000413
+T311-R0327,T311-D09,Unknown,T311-S029,Unknown,Unknown - AE-ASE02,912,0.00041
+T311-R0328,T311-D08,Transportation Services,T311-S024,Road Operations,Bicycle Stand (Post and Ring) Repair or Graffiti Removal,912,0.00041
+T311-R0329,T311-D06,Solid Waste Management Services,T311-S016,Collections and Litter Operations,Biohazard Human Waste Removal,910,0.000409
+T311-R0330,T311-D08,Transportation Services,T311-S025,TMC,Pedestrian Crossover (PXO) Maintenance,903,0.000406
+T311-R0331,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Bin: Repair or Replace Metal Bar,897,0.000403
+T311-R0332,T311-D08,Transportation Services,T311-S027,Traffic Ops,General Parking Regulations,889,0.0004
+T311-R0333,T311-D08,Transportation Services,T311-S024,Road Operations,Complaint-Staff Conduct,889,0.0004
+T311-R0334,T311-D08,Transportation Services,T311-S024,Road Operations,Expressway Requires Cleaning,889,0.0004
+T311-R0335,T311-D07,Toronto Water,T311-S020,District Ops,Water Meter-Leaking,881,0.000396
+T311-R0336,T311-D04,Parks,T311-S012,Forestry & Recreation,Commercial Tree Storm Clean Up,875,0.000393
+T311-R0337,T311-D06,Solid Waste Management Services,T311-S015,Collections,Bike Removal and Lost Bike Inquiry,863,0.000388
+T311-R0338,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Organic Bin Whole Street Not Picked Up,863,0.000388
+T311-R0339,T311-D08,Transportation Services,T311-S027,Traffic Ops,Left/Right Turn Signal Priority Features,853,0.000383
+T311-R0340,T311-D08,Transportation Services,T311-S024,Road Operations,Catch basin Maintenance and Repair,853,0.000383
+T311-R0341,T311-D02,Environment,T311-S002,Climate & Forestry,Stump Removal,849,0.000382
+T311-R0342,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: New Account Medium,842,0.000378
+T311-R0343,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: New Account Large,837,0.000376
+T311-R0344,T311-D08,Transportation Services,T311-S024,Road Operations,Pothole on Expressway,836,0.000376
+T311-R0345,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Protective Custody,832,0.000374
+T311-R0346,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Contaminated Waste/Preparation,829,0.000373
+T311-R0347,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Front-end Loaded Organics Not Picked Up,829,0.000373
+T311-R0348,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: Additional Medium,827,0.000372
+T311-R0349,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP04,824,0.00037
+T311-R0350,T311-D06,Solid Waste Management Services,T311-S015,Collections,Large Apartment or Condo Building Collection - Complaint - Solid Waste Management,823,0.00037
+T311-R0351,T311-D08,Transportation Services,T311-S024,Road Operations,Catch Basin -Cover Missing / Damaged / Loose,821,0.000369
+T311-R0352,T311-D06,Solid Waste Management Services,T311-S015,Collections,Application Mail Out / Non-Res,820,0.000369
+T311-R0353,T311-D06,Solid Waste Management Services,T311-S015,Collections,Operator / Operations Compliment,820,0.000369
+T311-R0354,T311-D05,Parks and Recreation,T311-S013,Parks,Park Lighting Maintenance,819,0.000368
+T311-R0355,T311-D06,Solid Waste Management Services,T311-S015,Collections,All / Hazardous Waste / Not Picked Up,816,0.000367
+T311-R0356,T311-D08,Transportation Services,T311-S024,Road Operations,Fence - Damaged,806,0.000362
+T311-R0357,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: New Account Large,802,0.00036
+T311-R0358,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic Front&Side / Not Picked Up,802,0.00036
+T311-R0359,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Recycle Cart / Not Picked Up,800,0.00036
+T311-R0360,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Fireworks,790,0.000355
+T311-R0361,T311-D05,Parks and Recreation,T311-S013,Parks,Park Water Feature Repairs,789,0.000355
+T311-R0362,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Rooming House,783,0.000352
+T311-R0363,T311-D02,Environment,T311-S002,Climate & Forestry,Tree Brush Pick-up,776,0.000349
+T311-R0364,T311-D08,Transportation Services,T311-S024,Road Operations,Pot hole on Expressway,774,0.000348
+T311-R0365,T311-D08,Transportation Services,T311-S027,Traffic Ops,New Pedestrian Crossover,774,0.000348
+T311-R0366,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Recycle Front&Side / Not Picked Up,772,0.000347
+T311-R0367,T311-D08,Transportation Services,T311-S024,Road Operations,Bollard - Damaged,771,0.000346
+T311-R0368,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Garbage Bin Overflowing,771,0.000346
+T311-R0369,T311-D06,Solid Waste Management Services,T311-S015,Collections,FEL Multi-Res / Recycle Cart / Not Picked Up,763,0.000343
+T311-R0370,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res Above Comm / Nite Garbage / Not Picked Up,761,0.000342
+T311-R0371,T311-D08,Transportation Services,T311-S024,Road Operations,Culverts-Damaged / Maintenance Requested,750,0.000337
+T311-R0372,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Garbage Not Picked Up on the Whole Street,727,0.000327
+T311-R0373,T311-D07,Toronto Water,T311-S020,District Ops,Catch basin (Storm) - Damage,726,0.000326
+T311-R0374,T311-D07,Toronto Water,T311-S020,District Ops,Sewer main-Backup,718,0.000323
+T311-R0375,T311-D08,Transportation Services,T311-S024,Road Operations,West Nile Virus-Standing Water / Roadside,702,0.000315
+T311-R0376,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential New Account Organic Bin,691,0.000311
+T311-R0377,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Shelter,682,0.000306
+T311-R0378,T311-D08,Transportation Services,T311-S024,Road Operations,Boulevard - Pick-Up Shopping Carts,681,0.000306
+T311-R0379,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Coyote Dangerous to Public Safety,680,0.000306
+T311-R0380,T311-D07,Toronto Water,T311-S020,District Ops,Contractor - Complaint - Toronto Water,665,0.000299
+T311-R0381,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Recycle Bin Nite / Not Picked Up,663,0.000298
+T311-R0382,T311-D09,Unknown,T311-S029,Unknown,Unknown - CSROBKL-01,653,0.000293
+T311-R0383,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Garbage Bin / Not Picked Up,647,0.000291
+T311-R0384,T311-D01,311,T311-S001,Operations,Staff Service - Compliment - 311 Toronto,646,0.00029
+T311-R0385,T311-D08,Transportation Services,T311-S024,Road Operations,Guardrail - Damaged,635,0.000285
+T311-R0386,T311-D06,Solid Waste Management Services,T311-S015,Collections,FEL Non-Res Recycle FEL / Not Picked Up,633,0.000284
+T311-R0387,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Org&Garbage Front&Side / Not Picked Up,625,0.000281
+T311-R0388,T311-D07,Toronto Water,T311-S020,District Ops,Hydrant-After Usage Test,622,0.00028
+T311-R0389,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Front End Loaded Garbage Not Picked Up,621,0.000279
+T311-R0390,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: New Account Extra Large,612,0.000275
+T311-R0391,T311-D05,Parks and Recreation,T311-S013,Parks,Park Pathways and Trails Maintenance,610,0.000274
+T311-R0392,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Prohibited Animal,606,0.000272
+T311-R0393,T311-D05,Parks and Recreation,T311-S013,Parks,Park General Maintenance,606,0.000272
+T311-R0394,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Recycle / Not Picked Up,604,0.000271
+T311-R0395,T311-D08,Transportation Services,T311-S027,Traffic Ops,Blocked Access By Parking,603,0.000271
+T311-R0396,T311-D05,Parks and Recreation,T311-S013,Parks,Grass and Sports Field Maintenance in Parks,602,0.000271
+T311-R0397,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Recycle Bin / Not Picked Up,601,0.00027
+T311-R0398,T311-D08,Transportation Services,T311-S024,Road Operations,Compliment-Employee/Operation,598,0.000269
+T311-R0399,T311-D02,Environment,T311-S002,Climate & Forestry,Tree Planting,598,0.000269
+T311-R0400,T311-D08,Transportation Services,T311-S025,TMC,Traffic or Street Name Sign - Graffiti Complaint,594,0.000267
+T311-R0401,T311-D08,Transportation Services,T311-S022,Permits & Enforcement,Automated Speed Enforcement (ASE ) Camera Vandalism or Damage,593,0.000266
+T311-R0402,T311-D07,Toronto Water,T311-S020,District Ops,Catch basin (Storm) - Other,591,0.000266
+T311-R0403,T311-D04,Parks,T311-S012,Forestry & Recreation,Commercial Tree Removal,591,0.000266
+T311-R0404,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Organic Bin / Not Picked Up,584,0.000262
+T311-R0405,T311-D08,Transportation Services,T311-S027,Traffic Ops,Traffic Infiltration,580,0.000261
+T311-R0406,T311-D08,Transportation Services,T311-S027,Traffic Ops,Pedestrian Crossing Protection,571,0.000257
+T311-R0407,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-residential Garbage Bag/s Not Picked Up,570,0.000256
+T311-R0408,T311-D07,Toronto Water,T311-S020,District Ops,Restoration - Complaint - Toronto Water,564,0.000253
+T311-R0409,T311-D08,Transportation Services,T311-S024,Road Operations,Ditch Maintenance Requested,563,0.000253
+T311-R0410,T311-D07,Toronto Water,T311-S020,District Ops,District Operations-Contractor Related,560,0.000252
+T311-R0411,T311-D07,Toronto Water,T311-S020,District Ops,Water Valve-Leaking,555,0.000249
+T311-R0412,T311-D08,Transportation Services,T311-S025,TMC,Missing/Damaged Watch Your Speed Boards,555,0.000249
+T311-R0413,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Coyote Response - Danger to Public Safety,547,0.000246
+T311-R0414,T311-D06,Solid Waste Management Services,T311-S015,Collections,Property Damaged/Collections Curb Day,537,0.000241
+T311-R0415,T311-D08,Transportation Services,T311-S024,Road Operations,Bridge - Damaged Structure,536,0.000241
+T311-R0416,T311-D02,Environment,T311-S002,Climate & Forestry,Commercial Tree Removal,529,0.000238
+T311-R0417,T311-D08,Transportation Services,T311-S027,Traffic Ops,Pedestrian Issues/Timing/Delays,523,0.000235
+T311-R0418,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Animal Extreme Condition,519,0.000233
+T311-R0419,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Organic / Not Picked Up,517,0.000232
+T311-R0420,T311-D08,Transportation Services,T311-S027,Traffic Ops,Road Design,513,0.000231
+T311-R0421,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Org&Recycle Front&Side / Not Picked Up,507,0.000228
+T311-R0422,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Organic Bin Nite / Not Picked Up,499,0.000224
+T311-R0423,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-residential Recycling Bin Not Picked Up,498,0.000224
+T311-R0424,T311-D08,Transportation Services,T311-S024,Road Operations,Staff Service - Compliment - Road Operations,494,0.000222
+T311-R0425,T311-D08,Transportation Services,T311-S024,Road Operations,Laneway - Salting / Sanding / Salt,491,0.000221
+T311-R0426,T311-D08,Transportation Services,T311-S024,Road Operations,Bridge - Debris / Litter,490,0.00022
+T311-R0427,T311-D08,Transportation Services,T311-S027,Traffic Ops,Lane Designation,489,0.00022
+T311-R0428,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / XMAS Tree / Pick Up,486,0.000218
+T311-R0429,T311-D08,Transportation Services,T311-S024,Road Operations,Road - Gravel Roads/Construction,483,0.000217
+T311-R0430,T311-D08,Transportation Services,T311-S026,Traffic Management,Pedestrian Signal Issue,478,0.000215
+T311-R0431,T311-D06,Solid Waste Management Services,T311-S015,Collections,Dispute SR Status/Litter Operations,472,0.000212
+T311-R0432,T311-D06,Solid Waste Management Services,T311-S015,Collections,Application Status / Non-Res,468,0.00021
+T311-R0433,T311-D07,Toronto Water,T311-S020,District Ops,Water-Miscellaneous,467,0.00021
+T311-R0434,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: Additional Small,466,0.000209
+T311-R0435,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Bin Metal Bar Damaged,466,0.000209
+T311-R0436,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Contaminated Waste / Preparation,458,0.000206
+T311-R0437,T311-D08,Transportation Services,T311-S024,Road Operations,Damaged Catch Basin on the Road,458,0.000206
+T311-R0438,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: New Account Medium,455,0.000204
+T311-R0439,T311-D05,Parks and Recreation,T311-S013,Parks,Park Playground Repairs,452,0.000203
+T311-R0440,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Garbage Pile / Not Picked Up,451,0.000203
+T311-R0441,T311-D08,Transportation Services,T311-S024,Road Operations,Retaining Wall - Damage / Repair,450,0.000202
+T311-R0442,T311-D08,Transportation Services,T311-S024,Road Operations,Bike Lane - Winter Maintenance Required,450,0.000202
+T311-R0443,T311-D08,Transportation Services,T311-S024,Road Operations,Sidewalk - Seniors Snow Clearing,444,0.0002
+T311-R0444,T311-D08,Transportation Services,T311-S024,Road Operations,Road damaged on Expressway,440,0.000198
+T311-R0445,T311-D07,Toronto Water,T311-S020,District Ops,Catch basin (Storm)-Damage,439,0.000197
+T311-R0446,T311-D08,Transportation Services,T311-S024,Road Operations,Road Plow Damage,438,0.000197
+T311-R0447,T311-D04,Parks,T311-S012,Forestry & Recreation,Hydro - Brush Pick-up,437,0.000196
+T311-R0448,T311-D08,Transportation Services,T311-S024,Road Operations,Sidewalk-Water Ponding,433,0.000195
+T311-R0449,T311-D06,Solid Waste Management Services,T311-S015,Collections,Large Apartment/Condo Building Collection Staff - Complaint - Solid Waste Management,433,0.000195
+T311-R0450,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VSOI,429,0.000193
+T311-R0451,T311-D02,Environment,T311-S002,Climate & Forestry,Pit Cover/Paver Maintenance,421,0.000189
+T311-R0452,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Garbage Bin Nite / Not Picked Up,420,0.000189
+T311-R0453,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Garbage Bin: New Account Small,419,0.000188
+T311-R0454,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Conduct,415,0.000187
+T311-R0455,T311-D04,Parks,T311-S012,Forestry & Recreation,Commercial Tree Planting,415,0.000187
+T311-R0456,T311-D07,Toronto Water,T311-S020,District Ops,Maintenance Hole-Missing Cover,414,0.000186
+T311-R0457,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res Above Comm / Nite Recycle / Not Picked Up,414,0.000186
+T311-R0458,T311-D08,Transportation Services,T311-S024,Road Operations,Ditch Maintenance Request,411,0.000185
+T311-R0459,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Illegal Dumping in Park,410,0.000184
+T311-R0460,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Excessive Heat in a Rental Unit,410,0.000184
+T311-R0461,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Front End Loaded Recycling Cart Not Picked Up,406,0.000182
+T311-R0462,T311-D06,Solid Waste Management Services,T311-S015,Collections,Operator / Operations - Compliment - Solid Waste Management,404,0.000182
+T311-R0463,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Complaint/Investigation -Abandoned Bikes,403,0.000181
+T311-R0464,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Organic Bin / Not Picked Up,398,0.000179
+T311-R0465,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Park Conduct,397,0.000178
+T311-R0466,T311-D08,Transportation Services,T311-S027,Traffic Ops,Speeding,389,0.000175
+T311-R0467,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Too Many,388,0.000174
+T311-R0468,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Pit Bull,381,0.000171
+T311-R0469,T311-D08,Transportation Services,T311-S027,Traffic Ops,All-Way Stop Sign Controls,380,0.000171
+T311-R0470,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Residential - Recycling Bin Night Collection - Not Picked Up,376,0.000169
+T311-R0471,T311-D04,Parks,T311-S012,Forestry & Recreation,Parks Ravine Safety Mtc FNEM,375,0.000169
+T311-R0472,T311-D08,Transportation Services,T311-S027,Traffic Ops,Speed Watch Programme,374,0.000168
+T311-R0473,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Organic Bin Not Picked Up,373,0.000168
+T311-R0474,T311-D06,Solid Waste Management Services,T311-S015,Collections,Staff Conduct/Collections FEL,367,0.000165
+T311-R0475,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential / Nite Furniture / Not Picked Up,364,0.000164
+T311-R0476,T311-D04,Parks,T311-S012,Forestry & Recreation,Pit Cover/Paver Maintenance,364,0.000164
+T311-R0477,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Air Conditioning in a Rental Unit,364,0.000164
+T311-R0478,T311-D07,Toronto Water,T311-S020,District Ops,Lost Items in Catch Basin,361,0.000162
+T311-R0479,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Stray - Attack,358,0.000161
+T311-R0480,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Residential - Garbage Bin Night Collection - Not Picked Up,358,0.000161
+T311-R0481,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter Operations - Complaint - Solid Waste Management,356,0.00016
+T311-R0482,T311-D05,Parks and Recreation,T311-S013,Parks,Park Graffiti Removal,352,0.000158
+T311-R0483,T311-D08,Transportation Services,T311-S024,Road Operations,Snow Removal - School Zone,347,0.000156
+T311-R0484,T311-D09,Unknown,T311-S029,Unknown,Unknown - MLSBLENE,346,0.000155
+T311-R0485,T311-D09,Unknown,T311-S029,Unknown,Unknown - TPROW-14,345,0.000155
+T311-R0486,T311-D08,Transportation Services,T311-S026,Traffic Management,Damaged Bike Lane Barrier,339,0.000152
+T311-R0487,T311-D05,Parks and Recreation,T311-S013,Parks,Park Washroom Maintenance,339,0.000152
+T311-R0488,T311-D05,Parks and Recreation,T311-S013,Parks,River and Ravine Dumping,331,0.000149
+T311-R0489,T311-D08,Transportation Services,T311-S027,Traffic Ops,Time Limit or Excessive Duration Parking,330,0.000148
+T311-R0490,T311-D08,Transportation Services,T311-S027,Traffic Ops,Reserved Lane,328,0.000147
+T311-R0491,T311-D08,Transportation Services,T311-S027,Traffic Ops,Investigate Vehicles Leaving Roadway,324,0.000146
+T311-R0492,T311-D08,Transportation Services,T311-S027,Traffic Ops,All-Way Stop Control Sign,324,0.000146
+T311-R0493,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Vehicles,323,0.000145
+T311-R0494,T311-D08,Transportation Services,T311-S026,Traffic Management,Bike Lane Pothole,321,0.000144
+T311-R0495,T311-D08,Transportation Services,T311-S024,Road Operations,Bus Stop Icy Needs Sand/Salt,320,0.000144
+T311-R0496,T311-D08,Transportation Services,T311-S024,Road Operations,West Nile Virus - Standing Water / Roadway,316,0.000142
+T311-R0497,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Residential - Organic Bin Night Collection - Not Picked Up,314,0.000141
+T311-R0498,T311-D06,Solid Waste Management Services,T311-S015,Collections,Dispute SR Status/Collections Nights,313,0.000141
+T311-R0499,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,TAS Staff / Service Complaint,309,0.000139
+T311-R0500,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP05,304,0.000137
+T311-R0501,T311-D08,Transportation Services,T311-S024,Road Operations,Traffic Island - Damaged,301,0.000135
+T311-R0502,T311-D07,Toronto Water,T311-S020,District Ops,New Large Water Service Turn-On,301,0.000135
+T311-R0503,T311-D06,Solid Waste Management Services,T311-S015,Collections,Property Damaged - Curbside Day Collection,294,0.000132
+T311-R0504,T311-D08,Transportation Services,T311-S024,Road Operations,Sidewalk - Accessible Ramps & Tactile Pavers,293,0.000132
+T311-R0505,T311-D08,Transportation Services,T311-S024,Road Operations,Icy Bus Stop Needs Salting,291,0.000131
+T311-R0506,T311-D01,311,T311-S001,Operations,Comment - 311 Toronto,291,0.000131
+T311-R0507,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-residential Organic Bin Not Picked Up,290,0.00013
+T311-R0508,T311-D07,Toronto Water,T311-S020,District Ops,District Operations-Equipment/Untidy Const Site,284,0.000128
+T311-R0509,T311-D02,Environment,T311-S002,Climate & Forestry,Spongy Moth Control Insp,283,0.000127
+T311-R0510,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-PSOI,282,0.000127
+T311-R0511,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Complaint - Abandoned Bikes in Rideable Condition,280,0.000126
+T311-R0512,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Dog Off-Leash on School Property,275,0.000124
+T311-R0513,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Nuisance Cat,274,0.000123
+T311-R0514,T311-D08,Transportation Services,T311-S027,Traffic Ops,Pedestrian Crossover Operation,274,0.000123
+T311-R0515,T311-D08,Transportation Services,T311-S024,Road Operations,Shoulder - Maintenance,265,0.000119
+T311-R0516,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP12,264,0.000119
+T311-R0517,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Illegal Dumping in City Parks,260,0.000117
+T311-R0518,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Service - Protective Custody,259,0.000116
+T311-R0519,T311-D07,Toronto Water,T311-S020,District Ops,District Operations-Compliment,259,0.000116
+T311-R0520,T311-D08,Transportation Services,T311-S026,Traffic Management,Damaged or Shifted Concrete or Planter Bike Lane Barrier,259,0.000116
+T311-R0521,T311-D08,Transportation Services,T311-S027,Traffic Ops,Heavy Trucks,257,0.000115
+T311-R0522,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Nite Garbage Pile / Not Picked Up,256,0.000115
+T311-R0523,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Residential Christmas Tree Pick Up,256,0.000115
+T311-R0524,T311-D08,Transportation Services,T311-S024,Road Operations,Damaged Catch Basin on the Roadside,255,0.000115
+T311-R0525,T311-D08,Transportation Services,T311-S024,Road Operations,Road - Plough Damage,252,0.000113
+T311-R0526,T311-D08,Transportation Services,T311-S028,Traffic Safety,School Crossing Guard - No Show,251,0.000113
+T311-R0527,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Trees and Plants,250,0.000112
+T311-R0528,T311-D08,Transportation Services,T311-S024,Road Operations,Sidewalk - Paraplegic Ramps,250,0.000112
+T311-R0529,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Oversized Itmes Not Picked Up,247,0.000111
+T311-R0530,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-residential Front End Loaded Recycling Not Picked Up,238,0.000107
+T311-R0531,T311-D02,Environment,T311-S002,Climate & Forestry,Natural Area Maintenance,238,0.000107
+T311-R0532,T311-D08,Transportation Services,T311-S024,Road Operations,Missed Leaf Collection,236,0.000106
+T311-R0533,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Licence,235,0.000106
+T311-R0534,T311-D07,Toronto Water,T311-S020,District Ops,District Operations-Attitude and Behavior,234,0.000105
+T311-R0535,T311-D06,Solid Waste Management Services,T311-S015,Collections,FEL Non-Res Recycle Cart / Not Picked Up,233,0.000105
+T311-R0536,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Organic & Garbage Not Picked Up,232,0.000104
+T311-R0537,T311-D08,Transportation Services,T311-S025,TMC,Flashing Beacon Maintenance,230,0.000103
+T311-R0538,T311-D08,Transportation Services,T311-S027,Traffic Ops,School Zone Safety Review,228,0.000102
+T311-R0539,T311-D07,Toronto Water,T311-S020,District Ops,Untidy Construction Site/ Equipment - Complaint - Toronto Water,228,0.000102
+T311-R0540,T311-D08,Transportation Services,T311-S024,Road Operations,Icy Bridge Needs Salting,222,0.0001
+T311-R0541,T311-D05,Parks and Recreation,T311-S013,Parks,Park Property Snow and Ice Clearing,220,9.9e-05
+T311-R0542,T311-D05,Parks and Recreation,T311-S013,Parks,Dead Wildlife in a Park,219,9.8e-05
+T311-R0543,T311-D08,Transportation Services,T311-S024,Road Operations,Bridge - Surface Repair,218,9.8e-05
+T311-R0544,T311-D08,Transportation Services,T311-S025,TMC,Sign Maintenance,218,9.8e-05
+T311-R0545,T311-D08,Transportation Services,T311-S021,District Ops,Missing or Damaged Bike Lane Flexible Bollards,218,9.8e-05
+T311-R0546,T311-D08,Transportation Services,T311-S024,Road Operations,Bridge Icy Needs Sand/Salt,217,9.8e-05
+T311-R0547,T311-D02,Environment,T311-S002,Climate & Forestry,Commercial Tree Maint Req,216,9.7e-05
+T311-R0548,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Garbage Cart Not Picked Up,215,9.7e-05
+T311-R0549,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Garbage Bag Nite / Not Picked Up,210,9.4e-05
+T311-R0550,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Front & Side Door Garbage Not Picked Up,210,9.4e-05
+T311-R0551,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VZ12,208,9.3e-05
+T311-R0552,T311-D06,Solid Waste Management Services,T311-S015,Collections,Night Collection - Complaint - Solid Waste Management,208,9.3e-05
+T311-R0553,T311-D05,Parks and Recreation,T311-S013,Parks,Ornamental Plant Maintenance in Parks,208,9.3e-05
+T311-R0554,T311-D08,Transportation Services,T311-S024,Road Operations,Bridge Falling Debris,207,9.3e-05
+T311-R0555,T311-D04,Parks,T311-S012,Forestry & Recreation,Commercial Tree Maint Req,207,9.3e-05
+T311-R0556,T311-D07,Toronto Water,T311-S020,District Ops,Staff - Complaint - Toronto Water,204,9.2e-05
+T311-R0557,T311-D08,Transportation Services,T311-S026,Traffic Management,Bike Lane Pavement Damage,204,9.2e-05
+T311-R0558,T311-D04,Parks,T311-S012,Forestry & Recreation,Gypsy Moth Control Insp,201,9e-05
+T311-R0559,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Animals,199,8.9e-05
+T311-R0560,T311-D07,Toronto Water,T311-S020,District Ops,Water Service Line - Low Pressure|| Low Flow - Ongoing - Non-residential,198,8.9e-05
+T311-R0561,T311-D07,Toronto Water,T311-S020,District Ops,Water Service Valve Leaking,195,8.8e-05
+T311-R0562,T311-D08,Transportation Services,T311-S027,Traffic Ops,Investigate Temporary Condition Markings,194,8.7e-05
+T311-R0563,T311-D04,Parks,T311-S012,Forestry & Recreation,IPM Inspection,194,8.7e-05
+T311-R0564,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Too Many Animals,194,8.7e-05
+T311-R0565,T311-D04,Parks,T311-S012,Forestry & Recreation,Planting 11 Plus Trees FNEM,193,8.7e-05
+T311-R0566,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Appliance (Emergency),191,8.6e-05
+T311-R0567,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: Additional Small,191,8.6e-05
+T311-R0568,T311-D07,Toronto Water,T311-S020,District Ops,Watercourse Investigation,191,8.6e-05
+T311-R0569,T311-D06,Solid Waste Management Services,T311-S015,Collections,FEL Non-Res Organic / Not Picked Up,191,8.6e-05
+T311-R0570,T311-D07,Toronto Water,T311-S020,District Ops,District Operations-Construction Site Unsafe,189,8.5e-05
+T311-R0571,T311-D09,Unknown,T311-S029,Unknown,Unknown - CSROBKL-02,188,8.4e-05
+T311-R0572,T311-D07,Toronto Water,T311-S020,District Ops,Salting - Toronto Water Asset or Site,187,8.4e-05
+T311-R0573,T311-D09,Unknown,T311-S029,Unknown,Unknown - 30080-ROE,186,8.4e-05
+T311-R0574,T311-D05,Parks and Recreation,T311-S013,Parks,Park Dog Off-leash Area Repair Request,185,8.3e-05
+T311-R0575,T311-D06,Solid Waste Management Services,T311-S015,Collections,Solid Waste Application Forms,185,8.3e-05
+T311-R0576,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Garbage Night Collection - Not Picked Up,184,8.3e-05
+T311-R0577,T311-D09,Unknown,T311-S029,Unknown,Unknown - TASTS,183,8.2e-05
+T311-R0578,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Residential - Garbage Bag Night Collection - Not Picked Up,181,8.1e-05
+T311-R0579,T311-D09,Unknown,T311-S029,Unknown,Unknown - CSROBKL-03,180,8.1e-05
+T311-R0580,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP09,179,8e-05
+T311-R0581,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP08,177,8e-05
+T311-R0582,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Organic Cart Not Picked Up,177,8e-05
+T311-R0583,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Yard Waste / Not Picked Up,176,7.9e-05
+T311-R0584,T311-D06,Solid Waste Management Services,T311-S015,Collections,Recycle / Park / Bin Overflow,174,7.8e-05
+T311-R0585,T311-D05,Parks and Recreation,T311-S013,Parks,Park Seating Repairs,173,7.8e-05
+T311-R0586,T311-D08,Transportation Services,T311-S027,Traffic Ops,Request for Special Parking Consideration,168,7.6e-05
+T311-R0587,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Front & Side Collected Organics Not Picked Up,167,7.5e-05
+T311-R0588,T311-D07,Toronto Water,T311-S020,District Ops,Staff - Compliment - Toronto Water,166,7.5e-05
+T311-R0589,T311-D03,Municipal Licensing & Standards,T311-S005,District Enforcement,Feeding Wildlife on Private and Public Property,166,7.5e-05
+T311-R0590,T311-D08,Transportation Services,T311-S027,Traffic Ops,Speed Bumps in Laneway,165,7.4e-05
+T311-R0591,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Coyote Response - Animal Attack,164,7.4e-05
+T311-R0592,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter Operations Staff - Complaint - Solid Waste Management,164,7.4e-05
+T311-R0593,T311-D06,Solid Waste Management Services,T311-S015,Collections,Staff Conduct/Litter Operations,162,7.3e-05
+T311-R0594,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential / Nite Yard Waste / Not Picked Up,162,7.3e-05
+T311-R0595,T311-D02,Environment,T311-S002,Climate & Forestry,TPPR Request for Letter of Clearance,161,7.2e-05
+T311-R0596,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Garbage Bag / Not Picked Up,160,7.2e-05
+T311-R0597,T311-D07,Toronto Water,T311-S020,District Ops,Watermain Valve - Turn Off,158,7.1e-05
+T311-R0598,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VZ08,156,7e-05
+T311-R0599,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Coyote Response - Animal Bite,153,6.9e-05
+T311-R0600,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP02,150,6.7e-05
+T311-R0601,T311-D02,Environment,T311-S002,Climate & Forestry,Commercial Tree Planting,149,6.7e-05
+T311-R0602,T311-D05,Parks and Recreation,T311-S013,Parks,Investigate Unauthorized Use of Permitted Park Facility,149,6.7e-05
+T311-R0603,T311-D08,Transportation Services,T311-S024,Road Operations,Expressway Guide Rail Damaged,147,6.6e-05
+T311-R0604,T311-D05,Parks and Recreation,T311-S013,Parks,Park Dog Off-leash Area Maintenance,147,6.6e-05
+T311-R0605,T311-D08,Transportation Services,T311-S027,Traffic Ops,Corner Parking Prohibition,146,6.6e-05
+T311-R0606,T311-D03,Municipal Licensing & Standards,T311-S003,Business Licensing Enforcement,Private Transportation Company Complaint,146,6.6e-05
+T311-R0607,T311-D05,Parks and Recreation,T311-S013,Parks,Suggestions about Signs in Parks,146,6.6e-05
+T311-R0608,T311-D08,Transportation Services,T311-S025,TMC,Missing/Damaged In Road Flexible Sign,145,6.5e-05
+T311-R0609,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Games,143,6.4e-05
+T311-R0610,T311-D01,311,T311-S001,Operations,Street Light Out,141,6.3e-05
+T311-R0611,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Right of Entry,141,6.3e-05
+T311-R0612,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Nite Recycle Cart / Not Picked Up,139,6.2e-05
+T311-R0613,T311-D01,311,T311-S001,Operations,Accessibility Complaint,139,6.2e-05
+T311-R0614,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential: Recycle Bin: New Account Small,137,6.2e-05
+T311-R0615,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Stoop N Scoop,135,6.1e-05
+T311-R0616,T311-D07,Toronto Water,T311-S020,District Ops,Unsafe Construction Site - Complaint - Toronto Water,135,6.1e-05
+T311-R0617,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Pigeons,133,6e-05
+T311-R0618,T311-D06,Solid Waste Management Services,T311-S015,Collections,Staff Conduct/Collections Nights,131,5.9e-05
+T311-R0619,T311-D09,Unknown,T311-S029,Unknown,Unknown - WSLNT,131,5.9e-05
+T311-R0620,T311-D08,Transportation Services,T311-S021,District Ops,Missing/Damaged Flexible Bollards,131,5.9e-05
+T311-R0621,T311-D06,Solid Waste Management Services,T311-S015,Collections,Apartment Above Business - Garbage Night Collection - Not Picked Up,130,5.8e-05
+T311-R0622,T311-D06,Solid Waste Management Services,T311-S015,Collections,Property Damaged/Collections FEL,127,5.7e-05
+T311-R0623,T311-D09,Unknown,T311-S029,Unknown,Unknown - TAS56,126,5.7e-05
+T311-R0624,T311-D09,Unknown,T311-S029,Unknown,Unknown - TAS57,122,5.5e-05
+T311-R0625,T311-D06,Solid Waste Management Services,T311-S015,Collections,Garbage / Park / Bin Installation,121,5.4e-05
+T311-R0626,T311-D06,Solid Waste Management Services,T311-S015,Collections,Garbage / Park / Bin Graffiti on Bin,121,5.4e-05
+T311-R0627,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Service/Staff - Complaint - Toronto Animal Services,121,5.4e-05
+T311-R0628,T311-D08,Transportation Services,T311-S027,Traffic Ops,One-way Streets,118,5.3e-05
+T311-R0629,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Disturbing/Injuring/Feeding Wildlife in a City Park,118,5.3e-05
+T311-R0630,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / FEL / Bin Inventory,117,5.3e-05
+T311-R0631,T311-D02,Environment,T311-S002,Climate & Forestry,TPPR Request to Refund Guarantee Deposit,117,5.3e-05
+T311-R0632,T311-D06,Solid Waste Management Services,T311-S015,Collections,Night Collection Staff - Complaint - Solid Waste Management,117,5.3e-05
+T311-R0633,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-residential Front End Loaded Organics Not Picked Up,116,5.2e-05
+T311-R0634,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Organic Cart / Not Picked Up,114,5.1e-05
+T311-R0635,T311-D08,Transportation Services,T311-S024,Road Operations,Complaint-Access,114,5.1e-05
+T311-R0636,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-residential Front End Loaded Recycling Cart Not Picked Up,114,5.1e-05
+T311-R0637,T311-D08,Transportation Services,T311-S027,Traffic Ops,Parking in a Public Lane,111,5e-05
+T311-R0638,T311-D06,Solid Waste Management Services,T311-S015,Collections,FEL Non-Res Organic Cart / Not Picked Up,110,4.9e-05
+T311-R0639,T311-D07,Toronto Water,T311-S020,District Ops,Salting-Winter (WSL/HYDT/VALVE/Watermain Break Locations etc.),109,4.9e-05
+T311-R0640,T311-D08,Transportation Services,T311-S025,TMC,RESCU Maintenance,109,4.9e-05
+T311-R0641,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter / Special Event / Pick Up Request,109,4.9e-05
+T311-R0642,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Recycling Bin Overflowing,109,4.9e-05
+T311-R0643,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Oversized Items Not Picked Up,109,4.9e-05
+T311-R0644,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multiple SRs/Collections Curb Day,108,4.9e-05
+T311-R0645,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Tied Excessive Time,107,4.8e-05
+T311-R0646,T311-D08,Transportation Services,T311-S026,Traffic Management,Traffic Signal Information Requests,107,4.8e-05
+T311-R0647,T311-D05,Parks and Recreation,T311-S013,Parks,Park Washroom Repairs,107,4.8e-05
+T311-R0648,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Damage or Removal of Plants in City Parks,106,4.8e-05
+T311-R0649,T311-D09,Unknown,T311-S029,Unknown,Unknown - SWLMALO-14,105,4.7e-05
+T311-R0650,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Commercial Enterprises,104,4.7e-05
+T311-R0651,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Illegally Dumped Appliance with Doors On (Emergency),101,4.5e-05
+T311-R0652,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP01,99,4.4e-05
+T311-R0653,T311-D08,Transportation Services,T311-S025,TMC,Missing/Damaged School Flashing Beacons,98,4.4e-05
+T311-R0654,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Stray - Menace,97,4.4e-05
+T311-R0655,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Muzzle,96,4.3e-05
+T311-R0656,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Front & Side Collected Garbage & Organics Not Picked Up,94,4.2e-05
+T311-R0657,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Commercial Dog Walkers,92,4.1e-05
+T311-R0658,T311-D06,Solid Waste Management Services,T311-S015,Collections,Special Event Litter Pick-up Request,92,4.1e-05
+T311-R0659,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Organic Night Collection - Not Picked Up,92,4.1e-05
+T311-R0660,T311-D09,Unknown,T311-S029,Unknown,Unknown - cotdrivercomplaint,91,4.1e-05
+T311-R0661,T311-D05,Parks and Recreation,T311-S013,Parks,Park Sign Maintenance,90,4e-05
+T311-R0662,T311-D06,Solid Waste Management Services,T311-S015,Collections,Garbage / Park / Bin Missing,89,4e-05
+T311-R0663,T311-D05,Parks and Recreation,T311-S013,Parks,Dangerous or Trapped Wildlife in a Park,89,4e-05
+T311-R0664,T311-D06,Solid Waste Management Services,T311-S015,Collections,Spills/Cleanup/Litter Operations,88,4e-05
+T311-R0665,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),CaféTO Encroachment Complaint,88,4e-05
+T311-R0666,T311-D08,Transportation Services,T311-S027,Traffic Ops,Bicycle Signals,87,3.9e-05
+T311-R0667,T311-D08,Transportation Services,T311-S027,Traffic Ops,Alternate Side Parking,86,3.9e-05
+T311-R0668,T311-D06,Solid Waste Management Services,T311-S015,Collections,Garbage / Park / Bin Damaged,85,3.8e-05
+T311-R0669,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Above Comm / Organic Green Bin / Not Picked Up,83,3.7e-05
+T311-R0670,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / XMAS Tree / Not Picked Up,83,3.7e-05
+T311-R0671,T311-D01,311,T311-S001,Operations,Accessibility / Disability - Complaint - 311 Toronto,83,3.7e-05
+T311-R0672,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VZ14,81,3.6e-05
+T311-R0673,T311-D08,Transportation Services,T311-S024,Road Operations,Expressway Fence - Damaged,80,3.6e-05
+T311-R0674,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Organic&Garbage / Not Picked Up,80,3.6e-05
+T311-R0675,T311-D08,Transportation Services,T311-S027,Traffic Ops,Student Crossing Issues,80,3.6e-05
+T311-R0676,T311-D04,Parks,T311-S012,Forestry & Recreation,EAB Exemption Request,80,3.6e-05
+T311-R0677,T311-D09,Unknown,T311-S029,Unknown,Unknown - 30080-EH,79,3.6e-05
+T311-R0678,T311-D08,Transportation Services,T311-S027,Traffic Ops,Disabled Loading Zone,78,3.5e-05
+T311-R0679,T311-D08,Transportation Services,T311-S025,TMC,Traffic Camera (RESCU) Maintenance,78,3.5e-05
+T311-R0680,T311-D08,Transportation Services,T311-S027,Traffic Ops,School-Related Warning Signs,77,3.5e-05
+T311-R0681,T311-D06,Solid Waste Management Services,T311-S015,Collections,Staff Conduct/Non-Collections,77,3.5e-05
+T311-R0682,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Garbage Cont. / Missing Damaged,72,3.2e-05
+T311-R0683,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Nite Furniture Pile / Not Picked Up,71,3.2e-05
+T311-R0684,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Coyote Response - Human Attack,71,3.2e-05
+T311-R0685,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Collections Staff - Complaint - Solid Waste Management,67,3e-05
+T311-R0686,T311-D05,Parks and Recreation,T311-S013,Parks,Park Hazardous Plants and Weeds,67,3e-05
+T311-R0687,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VZ13,66,3e-05
+T311-R0688,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Stoop and Scoop,66,3e-05
+T311-R0689,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-residential Front End Loaded Organic Cart Not Picked Up,66,3e-05
+T311-R0690,T311-D03,Municipal Licensing & Standards,T311-S003,Business Licensing Enforcement,Trades Complaint,65,2.9e-05
+T311-R0691,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Garbage Bin Graffiti,65,2.9e-05
+T311-R0692,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Postering Kiosks,64,2.9e-05
+T311-R0693,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Garbage Bin Installation,64,2.9e-05
+T311-R0694,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Prohibited Acts/Pollicking,63,2.8e-05
+T311-R0695,T311-D08,Transportation Services,T311-S021,District Ops,Graffiti on Temporary Condition Signs or Temporary Control Devices,63,2.8e-05
+T311-R0696,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Pool Issues,62,2.8e-05
+T311-R0697,T311-D07,Toronto Water,T311-S020,District Ops,Watermain Valve - Turn On,61,2.7e-05
+T311-R0698,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Garbage Bin Damaged,60,2.7e-05
+T311-R0699,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Oversized/Electronics Item Night Collection Not Picked Up,58,2.6e-05
+T311-R0700,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Garbage / Multiple Addresses / Not Picked Up,57,2.6e-05
+T311-R0701,T311-D08,Transportation Services,T311-S024,Road Operations,Access - Complaint - Road Operations,56,2.5e-05
+T311-R0702,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Dangerous Dog Complaint,55,2.5e-05
+T311-R0703,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-residential Garbage Bin Not Picked Up,55,2.5e-05
+T311-R0704,T311-D03,Municipal Licensing & Standards,T311-S003,Business Licensing Enforcement,COVID Business Complaint,53,2.4e-05
+T311-R0705,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic Bin / Replace Damaged,53,2.4e-05
+T311-R0706,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Organic&Recycle / Not Picked Up,53,2.4e-05
+T311-R0707,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Garbage Bin Missing,52,2.3e-05
+T311-R0708,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res Above Comm / Nite Yard Waste / Not Picked Up,51,2.3e-05
+T311-R0709,T311-D08,Transportation Services,T311-S024,Road Operations,Accessibility / Disability - Complaint - Transportation Services,51,2.3e-05
+T311-R0710,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Free-floating Car Share - Parking Complaint - Communauto Flex,50,2.2e-05
+T311-R0711,T311-D08,Transportation Services,T311-S027,Traffic Ops,Commercial Loading Zone,49,2.2e-05
+T311-R0712,T311-D06,Solid Waste Management Services,T311-S015,Collections,Dispute SR Status/PRM,49,2.2e-05
+T311-R0713,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,TAS Staff / Service Compliment,49,2.2e-05
+T311-R0714,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VZ05,49,2.2e-05
+T311-R0715,T311-D08,Transportation Services,T311-S026,Traffic Management,Bus/Streetcar Signal Issues,48,2.2e-05
+T311-R0716,T311-D08,Transportation Services,T311-S027,Traffic Ops,School Safety Programs,47,2.1e-05
+T311-R0717,T311-D06,Solid Waste Management Services,T311-S015,Collections,Spills/Cleanup/Collections Nights,47,2.1e-05
+T311-R0718,T311-D06,Solid Waste Management Services,T311-S015,Collections,Recycle / Park / Bin Graffiti on Bin,46,2.1e-05
+T311-R0719,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Services - Wildlife Education,46,2.1e-05
+T311-R0720,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multiple SRs/Collections FEL,45,2e-05
+T311-R0721,T311-D06,Solid Waste Management Services,T311-S015,Collections,Recycle / Park / Bin Damaged,45,2e-05
+T311-R0722,T311-D08,Transportation Services,T311-S024,Road Operations,Catch basin on Expressway requires cleaning,44,2e-05
+T311-R0723,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-residential Garbage Bag/s Not PIcked Up,44,2e-05
+T311-R0724,T311-D03,Municipal Licensing & Standards,T311-S009,Parks Enforcement,Watercraft,43,1.9e-05
+T311-R0725,T311-D06,Solid Waste Management Services,T311-S015,Collections,Property Damaged/Litter Operations,43,1.9e-05
+T311-R0726,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VZ01,43,1.9e-05
+T311-R0727,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Heating and Cooling,43,1.9e-05
+T311-R0728,T311-D09,Unknown,T311-S029,Unknown,Unknown - F--TPPR9,42,1.9e-05
+T311-R0729,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Garbage & Organics Whole Street Not Picked Up,42,1.9e-05
+T311-R0730,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Cleaning and Tidiness,42,1.9e-05
+T311-R0731,T311-D08,Transportation Services,T311-S024,Road Operations,Complaint-Disability,41,1.8e-05
+T311-R0732,T311-D08,Transportation Services,T311-S024,Road Operations,Boulevard - Leaf Pick-up Mechanical,41,1.8e-05
+T311-R0733,T311-D08,Transportation Services,T311-S027,Traffic Ops,Student Pick-up/Drop-off Area,39,1.8e-05
+T311-R0734,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Yard Waste Night Collection - Not Picked Up,39,1.8e-05
+T311-R0735,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Cardboard Nite / Not Picked Up,38,1.7e-05
+T311-R0736,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CSOI,38,1.7e-05
+T311-R0737,T311-D06,Solid Waste Management Services,T311-S015,Collections,Front End Load Customer Property Damage,38,1.7e-05
+T311-R0738,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Front End Loaded Yard Waste Not Picked up,38,1.7e-05
+T311-R0739,T311-D06,Solid Waste Management Services,T311-S015,Collections,FEL Multi-Res Xmas Tree / Not Picked Up,37,1.7e-05
+T311-R0740,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Washroom or Changeroom Cleanliness,37,1.7e-05
+T311-R0741,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Garbage Bin Relocate or Remove,36,1.6e-05
+T311-R0742,T311-D06,Solid Waste Management Services,T311-S015,Collections,Spills/Cleanup/Collections FEL,35,1.6e-05
+T311-R0743,T311-D06,Solid Waste Management Services,T311-S015,Collections,Garbage / Park / Bin Removal / Relocate,35,1.6e-05
+T311-R0744,T311-D05,Parks and Recreation,T311-S013,Parks,Park Outdoor Rink and Skate Trail Maintenance,35,1.6e-05
+T311-R0745,T311-D03,Municipal Licensing & Standards,T311-S011,Waste Enforcement,Prohibited Acts / Pollicking,34,1.5e-05
+T311-R0746,T311-D02,Environment,T311-S002,Climate & Forestry,RNFP Request for Letter of Clearance,34,1.5e-05
+T311-R0747,T311-D09,Unknown,T311-S029,Unknown,Unknown - F--TPPR15,33,1.5e-05
+T311-R0748,T311-D06,Solid Waste Management Services,T311-S018,Transfer,Transfer Station Odour,33,1.5e-05
+T311-R0749,T311-D06,Solid Waste Management Services,T311-S015,Collections,Hazardous Waste Not Picked Up,33,1.5e-05
+T311-R0750,T311-D08,Transportation Services,T311-S024,Road Operations,Catch basin on Expressway damaged,32,1.4e-05
+T311-R0751,T311-D06,Solid Waste Management Services,T311-S015,Collections,FEL Multi-Res Yard Waste / Not Picked Up,32,1.4e-05
+T311-R0752,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Residential - Garbage Pile Night Collection - Not Picked Up,32,1.4e-05
+T311-R0753,T311-D08,Transportation Services,T311-S021,District Ops,Hazardous Plant Removal on Boulevards,32,1.4e-05
+T311-R0754,T311-D04,Parks,T311-S012,Forestry & Recreation,Mulching,31,1.4e-05
+T311-R0755,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Tether,31,1.4e-05
+T311-R0756,T311-D03,Municipal Licensing & Standards,T311-S008,Municipal Licensing & Standards - N/A,Coyote Sighting,31,1.4e-05
+T311-R0757,T311-D06,Solid Waste Management Services,T311-S018,Transfer,Transfer Station Odour Complaint,30,1.3e-05
+T311-R0758,T311-D06,Solid Waste Management Services,T311-S015,Collections,Transfer Station/Drop-off Depot - Complaint - Solid Waste Management,30,1.3e-05
+T311-R0759,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential / Nite XMAS Tree / Not Picked Up,29,1.3e-05
+T311-R0760,T311-D06,Solid Waste Management Services,T311-S015,Collections,Spills/Cleanup/PRM,29,1.3e-05
+T311-R0761,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP13,29,1.3e-05
+T311-R0762,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Yard Waste Not Picked Up,29,1.3e-05
+T311-R0763,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Plumbing or Water Issue,29,1.3e-05
+T311-R0764,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-OTHERS,28,1.3e-05
+T311-R0765,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Garbage Pile Not Picked Up,28,1.3e-05
+T311-R0766,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Recycle Multiple Addresses / Not Picked Up,27,1.2e-05
+T311-R0767,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-TSOI,27,1.2e-05
+T311-R0768,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Front End Loaded Bin Inventory,27,1.2e-05
+T311-R0769,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Recycling Bin Graffiti,27,1.2e-05
+T311-R0770,T311-D07,Toronto Water,T311-S020,District Ops,Sewer-See and Advise,26,1.2e-05
+T311-R0771,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Facility Repair,26,1.2e-05
+T311-R0772,T311-D06,Solid Waste Management Services,T311-S015,Collections,Recycling Contamination Notice,25,1.1e-05
+T311-R0773,T311-D08,Transportation Services,T311-S024,Road Operations,Shoulder on Expressway Damaged,25,1.1e-05
+T311-R0774,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VZ10,25,1.1e-05
+T311-R0775,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Residential Front End Loaded Christmas Tree Not Picked Up,25,1.1e-05
+T311-R0776,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Animal on Short Tether,25,1.1e-05
+T311-R0777,T311-D02,Environment,T311-S002,Climate & Forestry,RNFP Request to Refund Guarantee Deposit,25,1.1e-05
+T311-R0778,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Service/Staff Comment - Toronto Animal Services,25,1.1e-05
+T311-R0779,T311-D05,Parks and Recreation,T311-S013,Parks,Beach Sand Maintenance,25,1.1e-05
+T311-R0780,T311-D05,Parks and Recreation,T311-S013,Parks,Dead Animal in a Park,25,1.1e-05
+T311-R0781,T311-D08,Transportation Services,T311-S027,Traffic Ops,Streetcar Platforms,24,1.1e-05
+T311-R0782,T311-D08,Transportation Services,T311-S027,Traffic Ops,School Crossing Guard Shift Time Change Request,24,1.1e-05
+T311-R0783,T311-D05,Parks and Recreation,T311-S013,Parks,Park Community Garden Maintenance,24,1.1e-05
+T311-R0784,T311-D08,Transportation Services,T311-S027,Traffic Ops,Pedestrian Refuge Island,23,1e-05
+T311-R0785,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP07,23,1e-05
+T311-R0786,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Recycling Bin Damaged,23,1e-05
+T311-R0787,T311-D03,Municipal Licensing & Standards,T311-S003,Business Licensing Enforcement,Tow Truck Complaint,22,1e-05
+T311-R0788,T311-D08,Transportation Services,T311-S024,Road Operations,Minor Road Damage,21,9e-06
+T311-R0789,T311-D06,Solid Waste Management Services,T311-S015,Collections,Recycle / Park / Bin Relocate / Removal,20,9e-06
+T311-R0790,T311-D06,Solid Waste Management Services,T311-S015,Collections,Recycle / Park / Bin Missing,20,9e-06
+T311-R0791,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,TAS Comment / Suggestion,20,9e-06
+T311-R0792,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Ewaste / Not Picked Up,20,9e-06
+T311-R0793,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Yard Waste / Not Picked Up,20,9e-06
+T311-R0794,T311-D05,Parks and Recreation,T311-S013,Parks,Park Stadium Maintenance,20,9e-06
+T311-R0795,T311-D06,Solid Waste Management Services,T311-S015,Collections,Recycle / Park / Bin Installation,19,9e-06
+T311-R0796,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Services - Rabies Suspect,19,9e-06
+T311-R0797,T311-D01,311,T311-S001,Operations,Power Outage,19,9e-06
+T311-R0798,T311-D07,Toronto Water,T311-S020,District Ops,Emergency Watermain Turn-off,19,9e-06
+T311-R0799,T311-D06,Solid Waste Management Services,T311-S015,Collections,Access/AODA Complaint,18,8e-06
+T311-R0800,T311-D08,Transportation Services,T311-S027,Traffic Ops,Temporary Signal Timings,18,8e-06
+T311-R0801,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Excessive Heat in a Rental Building Shared Space,18,8e-06
+T311-R0802,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Building Fixture Repair,18,8e-06
+T311-R0803,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Recycling Bin Missing,17,8e-06
+T311-R0804,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential Christmas Tree Not Picked Up,17,8e-06
+T311-R0805,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Organic and Garbage Night Collection - Not Picked Up,17,8e-06
+T311-R0806,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Residential - Furniture Pile Night Collection - Not Picked Up,17,8e-06
+T311-R0807,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Lighting and Electrical,17,8e-06
+T311-R0808,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Accessibility Issues,17,8e-06
+T311-R0809,T311-D06,Solid Waste Management Services,T311-S015,Collections,Property Damaged/Collections Nights,16,7e-06
+T311-R0810,T311-D06,Solid Waste Management Services,T311-S015,Collections,FEL Non-Res Furniture / Not Picked Up,16,7e-06
+T311-R0811,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Recycling Bin Installation,16,7e-06
+T311-R0812,T311-D06,Solid Waste Management Services,T311-S015,Collections,Apartment Above Business - Organic Night Collection - Not Picked Up.,16,7e-06
+T311-R0813,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Coyote Response - Human Bite,15,7e-06
+T311-R0814,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP10,15,7e-06
+T311-R0815,T311-D06,Solid Waste Management Services,T311-S015,Collections,Front End Loaded Bin Spills Clean-up,15,7e-06
+T311-R0816,T311-D06,Solid Waste Management Services,T311-S015,Collections,Parks Collections Staff - Complaint - Solid Waste Management,15,7e-06
+T311-R0817,T311-D06,Solid Waste Management Services,T311-S015,Collections,Application Status,15,7e-06
+T311-R0818,T311-D06,Solid Waste Management Services,T311-S016,Collections and Litter Operations,Park Organic Bin Overflowing,15,7e-06
+T311-R0819,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Sports Equipment Issue,15,7e-06
+T311-R0820,T311-D06,Solid Waste Management Services,T311-S015,Collections,Apartment Above Business - Organic Night Collection - Not Picked Up,15,7e-06
+T311-R0821,T311-D08,Transportation Services,T311-S027,Traffic Ops,School Bus Loading Zone,14,6e-06
+T311-R0822,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VZ07,14,6e-06
+T311-R0823,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP06,14,6e-06
+T311-R0824,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Service/Staff - Compliment - Toronto Animal Services,14,6e-06
+T311-R0825,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Walking Too Many Dogs,13,6e-06
+T311-R0826,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res Above Comm / Nite XMAS Tree / Not Picked Up,13,6e-06
+T311-R0827,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multiple SRs/Collections Nights,13,6e-06
+T311-R0828,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Yard Waste Multiple Addresses / Not Picked Up,13,6e-06
+T311-R0829,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP17,13,6e-06
+T311-R0830,T311-D09,Unknown,T311-S029,Unknown,Unknown - 30080-NEH,13,6e-06
+T311-R0831,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Rabies Suspect,13,6e-06
+T311-R0832,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Nite Garbage Rear-Bin / Not Picked Up,12,5e-06
+T311-R0833,T311-D06,Solid Waste Management Services,T311-S015,Collections,Staff Conduct / Collections / Parks,12,5e-06
+T311-R0834,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Garbage Rear-Bin / Not Picked Up,12,5e-06
+T311-R0835,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Garbage Night Collection - Whole Street Not Picked Up,12,5e-06
+T311-R0836,T311-D06,Solid Waste Management Services,T311-S015,Collections,Park Recycling Bin Relocation or Removal,11,5e-06
+T311-R0837,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Org&Garbage Multiple Addresses / Not Picked Up,10,4e-06
+T311-R0838,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Org&Garbage Front&Side / Not Picked Up,10,4e-06
+T311-R0839,T311-D08,Transportation Services,T311-S027,Traffic Ops,Taxicab Stand,10,4e-06
+T311-R0840,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Services Wild Educ,10,4e-06
+T311-R0841,T311-D05,Parks and Recreation,T311-S013,Parks,Park Farm Animal Wellbeing,10,4e-06
+T311-R0842,T311-D08,Transportation Services,T311-S026,Traffic Management,Bicycle Signal Issue,10,4e-06
+T311-R0843,T311-D08,Transportation Services,T311-S027,Traffic Ops,Motor Coach Parking,9,4e-06
+T311-R0844,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Prohibited Collar,9,4e-06
+T311-R0845,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Org&Recycle Front&Side / Not Picked Up,9,4e-06
+T311-R0846,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP03,9,4e-06
+T311-R0847,T311-D09,Unknown,T311-S029,Unknown,Unknown - SWM-SUTI-BylawNC,9,4e-06
+T311-R0848,T311-D09,Unknown,T311-S029,Unknown,Unknown - F--RNFP14,9,4e-06
+T311-R0849,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Dog Harassing/Chasing Coyote,9,4e-06
+T311-R0850,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Centre Garbage/Recycling Removal,9,4e-06
+T311-R0851,T311-D08,Transportation Services,T311-S027,Traffic Ops,Investigate Guide and Information Signs,8,4e-06
+T311-R0852,T311-D04,Parks,T311-S012,Forestry & Recreation,Misc: Non-Forestry Activity,8,4e-06
+T311-R0853,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VZ02,8,4e-06
+T311-R0854,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-ST03,8,4e-06
+T311-R0855,T311-D06,Solid Waste Management Services,T311-S015,Collections,Accessibility / Disability - Complaint - Solid Waste Management,8,4e-06
+T311-R0856,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Walking Too Many,8,4e-06
+T311-R0857,T311-D02,Environment,T311-S002,Climate & Forestry,Planting 11 Plus Trees,8,4e-06
+T311-R0858,T311-D06,Solid Waste Management Services,T311-S015,Collections,Transfer Station Spill Cleanup,8,4e-06
+T311-R0859,T311-D06,Solid Waste Management Services,T311-S016,Collections and Litter Operations,Unknown,8,4e-06
+T311-R0860,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter / Bin / Reinstall|| Replace Missing,7,3e-06
+T311-R0861,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Furniture / Not Picked Up,7,3e-06
+T311-R0862,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic Bin / New Occupants,7,3e-06
+T311-R0863,T311-D09,Unknown,T311-S029,Unknown,Unknown - F--RNFP10,7,3e-06
+T311-R0864,T311-D08,Transportation Services,T311-S027,Traffic Ops,Pedestrian Issues / Timing / Delays,7,3e-06
+T311-R0865,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Centre Fitness Equipment Issue,7,3e-06
+T311-R0866,T311-D04,Parks,T311-S012,Forestry & Recreation,Ravine Inspection,6,3e-06
+T311-R0867,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Organic Front&Side / Not Picked Up,6,3e-06
+T311-R0868,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Org&Recycle Multiple Addresses / Not Picked Up,6,3e-06
+T311-R0869,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-ST01,6,3e-06
+T311-R0870,T311-D07,Toronto Water,T311-S020,District Ops,Catch basin (Storm) - Missing Cover,6,3e-06
+T311-R0871,T311-D06,Solid Waste Management Services,T311-S015,Collections,Apartment Above Business - Yard Waste Night Collection - Not Picked Up,6,3e-06
+T311-R0872,T311-D08,Transportation Services,T311-S027,Traffic Ops,Community Traffic Study,5,2e-06
+T311-R0873,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Organic Bin / Missing,5,2e-06
+T311-R0874,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-SCG01,5,2e-06
+T311-R0875,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VZ04,5,2e-06
+T311-R0876,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Recycle Front&Side / Not Picked Up,5,2e-06
+T311-R0877,T311-D07,Toronto Water,T311-S020,District Ops,Watermain Emergency Valve - Turn Off,5,2e-06
+T311-R0878,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Organic Front and Side Night Collection - Not Picked Up,5,2e-06
+T311-R0879,T311-D05,Parks and Recreation,T311-S014,Recreation,Recreation Facility Graffiti,5,2e-06
+T311-R0880,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res XMAS Tree / Not Picked Up,4,2e-06
+T311-R0881,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Nite XMAS Tree / Not Picked Up,4,2e-06
+T311-R0882,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Furniture / Not Picked Up Night,4,2e-06
+T311-R0883,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multiple SRs/Litter Operations,4,2e-06
+T311-R0884,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic Bin / Wrong Delivery,4,2e-06
+T311-R0885,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-VZ06,4,2e-06
+T311-R0886,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-ST02,4,2e-06
+T311-R0887,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Tied Prohibited Collar,4,2e-06
+T311-R0888,T311-D06,Solid Waste Management Services,T311-S016,Collections and Litter Operations,Non-compliance - Single-Use/Takeaway Items,4,2e-06
+T311-R0889,T311-D06,Solid Waste Management Services,T311-S015,Collections,Dispute Recycling Contamination Notice,4,2e-06
+T311-R0890,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Dangerous Dog with no Warning Sign Displayed,4,2e-06
+T311-R0891,T311-D06,Solid Waste Management Services,T311-S015,Collections,Property Damaged - Night Collections,4,2e-06
+T311-R0892,T311-D03,Municipal Licensing & Standards,T311-S007,Licensing Team,Non-compliance - Single-Use/Takeaway Items,4,2e-06
+T311-R0893,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Organic and Garbage Night Collection - Whole Street Not Picked Up,4,2e-06
+T311-R0894,T311-D04,Parks,T311-S012,Forestry & Recreation,Permit Inspection,3,1e-06
+T311-R0895,T311-D08,Transportation Services,T311-S027,Traffic Ops,Mode of Control of TCS,3,1e-06
+T311-R0896,T311-D08,Transportation Services,T311-S027,Traffic Ops,Residential Permit Parking,3,1e-06
+T311-R0897,T311-D01,311,T311-S001,Operations,Graffiti on Hydro Asset,3,1e-06
+T311-R0898,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Nite Organic / Bin Inquiry,3,1e-06
+T311-R0899,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Yard Waste Nite / Not Picked Up,3,1e-06
+T311-R0900,T311-D07,Toronto Water,T311-S020,District Ops,Water and Sewer Service Applications,3,1e-06
+T311-R0901,T311-D08,Transportation Services,T311-S027,Traffic Ops,Special Parking Consideration,3,1e-06
+T311-R0902,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Owner Surrender - Live,3,1e-06
+T311-R0903,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter / Bin / Graffiti on Bin,3,1e-06
+T311-R0904,T311-D06,Solid Waste Management Services,T311-S015,Collections,Res / Organic Green Bin / Retrieval,3,1e-06
+T311-R0905,T311-D06,Solid Waste Management Services,T311-S015,Collections,Property Damaged/PRM,3,1e-06
+T311-R0906,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter / Bin / Removal,3,1e-06
+T311-R0907,T311-D09,Unknown,T311-S029,Unknown,Unknown - cotdrivercompliment,3,1e-06
+T311-R0908,T311-D09,Unknown,T311-S029,Unknown,Unknown - NRLPA,3,1e-06
+T311-R0909,T311-D02,Environment,T311-S002,Climate & Forestry,Mulching,3,1e-06
+T311-R0910,T311-D06,Solid Waste Management Services,T311-S016,Collections and Litter Operations,Park Organic Bin Relocate or Remove,3,1e-06
+T311-R0911,T311-D07,Toronto Water,T311-S020,District Ops,Emergency Watermain Turn-On,3,1e-06
+T311-R0912,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Yard Waste Night Collection - Whole Street Not Picked Up,3,1e-06
+T311-R0913,T311-D05,Parks and Recreation,T311-S014,Recreation,Other Recreation Facility Issues,3,1e-06
+T311-R0914,T311-D07,Toronto Water,T311-S020,District Ops,Locate-Scheduled,2,1e-06
+T311-R0915,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Recycle / Additional Container,2,1e-06
+T311-R0916,T311-D03,Municipal Licensing & Standards,T311-S006,Investigation Services,Noise,2,1e-06
+T311-R0917,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Organic Bin / Additional,2,1e-06
+T311-R0918,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Services - Found Animal Report,2,1e-06
+T311-R0919,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Recycle Cont. / Missing Damaged,2,1e-06
+T311-R0920,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Animal Noise - Retired,2,1e-06
+T311-R0921,T311-D06,Solid Waste Management Services,T311-S015,Collections,FEL Non-Res Yard Waste / Not Picked Up,2,1e-06
+T311-R0922,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Owner Surrender - Deceased,2,1e-06
+T311-R0923,T311-D06,Solid Waste Management Services,T311-S015,Collections,Litter / Bin / Relocate,2,1e-06
+T311-R0924,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Services - Education Request,2,1e-06
+T311-R0925,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Organic Bin / Damaged,2,1e-06
+T311-R0926,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res XMAS Tree Nite / Not Picked Up,2,1e-06
+T311-R0927,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non Qualifying Service Request,2,1e-06
+T311-R0928,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP18,2,1e-06
+T311-R0929,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-ST04,2,1e-06
+T311-R0930,T311-D02,Environment,T311-S002,Climate & Forestry,RNFP Request to Withdraw Permit Application,2,1e-06
+T311-R0931,T311-D07,Toronto Water,T311-S020,District Ops,Watermain emergency Valve - Turn On,2,1e-06
+T311-R0932,T311-D02,Environment,T311-S002,Climate & Forestry,TPPR Request to Withdraw Permit Application,2,1e-06
+T311-R0933,T311-D08,Transportation Services,T311-S021,District Ops,King Liberty Pedestrian Bridge Elevator Repair,2,1e-06
+T311-R0934,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-residential Organic Bin Damaged,2,1e-06
+T311-R0935,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Organic and Garbage Front and Side Night Collection - Not Picked Up,2,1e-06
+T311-R0936,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Residential Electronic Waste Not Picked Up,2,1e-06
+T311-R0937,T311-D01,311,T311-S001,Operations,Publication Request - Transportation,1,0.0
+T311-R0938,T311-D09,Unknown,T311-S029,Unknown,Unknown - F--TPPR1,1,0.0
+T311-R0939,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Res Organic Bin / Retrieval,1,0.0
+T311-R0940,T311-D07,Toronto Water,T311-S020,District Ops,Catch basin (Storm)-Sunken / High,1,0.0
+T311-R0941,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Services - Lost Animal Report,1,0.0
+T311-R0942,T311-D08,Transportation Services,T311-S027,Traffic Ops,Public Transit Loading Zone,1,0.0
+T311-R0943,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Garbage / Additional Container,1,0.0
+T311-R0944,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Res / Recycle Rear-Bin / Not Picked Up,1,0.0
+T311-R0945,T311-D07,Toronto Water,T311-S020,District Ops,Maintenance Hole-Noisy Cover,1,0.0
+T311-R0946,T311-D08,Transportation Services,T311-S023,Right of Way (ROW),Free-floating Car Share - Parking Complaint - Zipcar,1,0.0
+T311-R0947,T311-D07,Toronto Water,T311-S020,District Ops,Watermain Emergency Valve-Turn Off,1,0.0
+T311-R0948,T311-D04,Parks,T311-S012,Forestry & Recreation,General Tree Inspection,1,0.0
+T311-R0949,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-CMP14,1,0.0
+T311-R0950,T311-D07,Toronto Water,T311-S020,District Ops,Catch basin (Storm)-Missing Cover,1,0.0
+T311-R0951,T311-D07,Toronto Water,T311-S020,District Ops,Storm Event-Flooding,1,0.0
+T311-R0952,T311-D09,Unknown,T311-S029,Unknown,Unknown - TSO-ST05,1,0.0
+T311-R0953,T311-D08,Transportation Services,T311-S025,TMC,Respond to Locates Request,1,0.0
+T311-R0954,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Organic Night Collection - Bin Inquiry,1,0.0
+T311-R0955,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Owner Surr Live,1,0.0
+T311-R0956,T311-D06,Solid Waste Management Services,T311-S015,Collections,Property Damaged - Transfer Station,1,0.0
+T311-R0957,T311-D06,Solid Waste Management Services,T311-S015,Collections,Application Mail Out / Premium Organics,1,0.0
+T311-R0958,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Investigate - Dangerous Dog with no Dangerous Dog Tag,1,0.0
+T311-R0959,T311-D03,Municipal Licensing & Standards,T311-S010,Toronto Animal Services,Owner Surr Deceased,1,0.0
+T311-R0960,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Residential Christmas Tree Not Picked Up,1,0.0
+T311-R0961,T311-D06,Solid Waste Management Services,T311-S016,Collections and Litter Operations,Park Organic Bin Missing,1,0.0
+T311-R0962,T311-D06,Solid Waste Management Services,T311-S015,Collections,Multi-Residential Christmas Tree Not Picked Up,1,0.0
+T311-R0963,T311-D06,Solid Waste Management Services,T311-S015,Collections,Non-Residential - Christmas Tree Night Collection - Not Picked Up,1,0.0
+T311-R0964,T311-D06,Solid Waste Management Services,T311-S015,Collections,SW_Multi-Res / Organic Bin / Additional,1,0.0
+T311-R0965,T311-D06,Solid Waste Management Services,T311-S015,Collections,Residential - Organic Night Collection - Bin Retrieval,1,0.0

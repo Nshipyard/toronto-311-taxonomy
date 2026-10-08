@@ -73,6 +73,7 @@ const en = {
       "Backlog is a proxy, not a measurement of speed. A request can sit open for legitimate reasons: seasonal tree work, multi-year capital projects, or duplicate reports. The correlation of 0.18 is descriptive, not causal, and it is weak enough to treat as no relationship. Ward income is a 2021 Census median; it says nothing about who filed each request.",
     worstLabel: "Highest backlog",
     bestLabel: "Lowest backlog",
+    worstBestLine: "{pct}% backlog · ${income} median income",
   },
   methodology: {
     kicker: "Methodology",
@@ -206,6 +207,7 @@ const fr: Dict = {
       "L'arriéré est un indicateur, pas une mesure de vitesse. Une demande peut rester ouverte pour des raisons légitimes : travaux arboricoles saisonniers, projets d'immobilisations pluriannuels ou signalements en double. La corrélation de 0,18 est descriptive, pas causale, et assez faible pour être traitée comme une absence de lien. Le revenu par arrondissement est une médiane du recensement de 2021; il ne dit rien de qui a déposé chaque demande.",
     worstLabel: "Arriéré le plus élevé",
     bestLabel: "Arriéré le plus faible",
+    worstBestLine: "{pct} % d'arriéré · revenu médian {income} $",
   },
   methodology: {
     kicker: "Méthodologie",

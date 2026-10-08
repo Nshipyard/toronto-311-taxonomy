@@ -101,7 +101,7 @@ function Scatter({ wards, incomeLabel, backlogLabel }: { wards: WardStat[]; inco
 }
 
 export default function Showcase() {
-  const { t } = useLang();
+  const { t, lang } = useLang();
   const [wards, setWards] = useState<WardStat[]>([]);
   const [divs, setDivs] = useState<DivBacklog[]>([]);
 
@@ -123,6 +123,12 @@ export default function Showcase() {
   const worst = byRate[0];
   const best = byRate[byRate.length - 1];
 
+  const worstBestLine = (w: WardStat) => {
+    const pct = ((w.backlog_rate ?? 0) * 100).toFixed(1).replace(".", lang === "fr" ? "," : ".");
+    const income = w.median_household_income_2020 ? num(w.median_household_income_2020) : "–";
+    return t.showcase.worstBestLine.replace("{pct}", pct).replace("{income}", income);
+  };
+
   return (
     <section id="showcase" className="bg-paper">
       <div className="mx-auto max-w-[1392px] px-6 py-20 md:py-28">
@@ -138,10 +144,7 @@ export default function Showcase() {
                 <p className="display mt-2 text-[28px]">
                   {worst.ward_code} · {worst.ward_name}
                 </p>
-                <p className="mt-1 text-[15px] text-ink/65">
-                  {((worst.backlog_rate ?? 0) * 100).toFixed(1)}% backlog
-                  {worst.median_household_income_2020 ? ` · $${num(worst.median_household_income_2020)} median income` : ""}
-                </p>
+                <p className="mt-1 text-[15px] text-ink/65">{worstBestLine(worst)}</p>
               </div>
             )}
             {best && (
@@ -150,10 +153,7 @@ export default function Showcase() {
                 <p className="display mt-2 text-[28px]">
                   {best.ward_code} · {best.ward_name}
                 </p>
-                <p className="mt-1 text-[15px] text-ink/65">
-                  {((best.backlog_rate ?? 0) * 100).toFixed(1)}% backlog
-                  {best.median_household_income_2020 ? ` · $${num(best.median_household_income_2020)} median income` : ""}
-                </p>
+                <p className="mt-1 text-[15px] text-ink/65">{worstBestLine(best)}</p>
               </div>
             )}
           </div>

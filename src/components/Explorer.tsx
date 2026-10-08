@@ -153,7 +153,7 @@ export default function Explorer() {
                       onClick={() => setSelected(r)}
                       className="flex w-full items-center justify-between gap-4 px-6 py-4 text-left hover:bg-paper-warm"
                     >
-                      <div>
+                      <div className="min-w-0">
                         <p className="text-[16px] font-semibold">{r.type}</p>
                         <p className="mt-0.5 font-mono text-[13px] text-ink/55">
                           {r.code} · {r.division}

@@ -96,7 +96,7 @@ export default function McpConnect({ config }: { config: McpConfig }) {
 
       <div className="mt-4 overflow-hidden rounded-[24px] bg-white/[0.06]">
         <div className="flex items-center justify-between gap-4 border-b border-white/10 px-6 py-4">
-          <h4 className="text-[17px] font-semibold">
+          <h4 className="min-w-0 text-[17px] font-semibold">
             {tab === "other" ? m.otherTitle : m.cardTitle.replace("{tab}", tabLabel(tab))}
           </h4>
           <button

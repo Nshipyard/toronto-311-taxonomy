@@ -23,7 +23,7 @@ function Bar({ label, value, max, money, highlight }: { label: string; value: nu
   return (
     <div className="py-2">
       <div className="flex items-baseline justify-between gap-4 text-[14px]">
-        <span className={`font-medium ${highlight ? "text-ink" : "text-ink/75"}`}>{label}</span>
+        <span className={`min-w-0 font-medium ${highlight ? "text-ink" : "text-ink/75"}`}>{label}</span>
         <span className="shrink-0 tabular-nums text-ink/60">
           {(value * 100).toFixed(1)}%{money ? ` · ${money}` : ""}
         </span>

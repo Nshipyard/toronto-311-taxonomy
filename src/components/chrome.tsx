@@ -32,7 +32,7 @@ export function Nav() {
   return (
     <header className="border-b border-line bg-paper/90 backdrop-blur">
       <div className="mx-auto flex max-w-[1392px] items-center justify-between px-6 py-4">
-        <a href="#top" className="flex items-center gap-2.5">
+        <a href="#top" className="flex min-w-0 items-center gap-2.5">
           <MapleLeaf className="h-7 w-7 text-canada" />
           <span className="display text-[24px]">{brand}</span>
         </a>

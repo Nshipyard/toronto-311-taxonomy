@@ -7,10 +7,35 @@ import "@fontsource/inter/600.css";
 import "./globals.css";
 import { LangProvider } from "@/i18n";
 
+const SITE_URL = "https://toronto-311-taxonomy.vercel.app";
+
 export const metadata: Metadata = {
   title: "Toronto 311 Taxonomy: every service request, classified",
   description:
     "2,225,151 Toronto 311 service requests (2022-2026) normalized into a versioned taxonomy: division, section, request type. Ward backlog analysis, REST API, OpenAPI docs, and MCP tools. Open data, MIT licensed.",
+  metadataBase: new URL(SITE_URL),
+  openGraph: {
+    title: "Toronto 311 Taxonomy: every service request, classified",
+    description:
+      "2,225,151 Toronto 311 service requests (2022-2026) normalized into a versioned taxonomy: division, section, request type. Ward backlog analysis, REST API, OpenAPI docs, and MCP tools. Open data, MIT licensed.",
+    url: SITE_URL,
+    siteName: "Nshipyard Canada",
+    type: "website",
+    images: [
+      {
+        url: `${SITE_URL}/og-image.png`,
+        width: 1200,
+        height: 630,
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Toronto 311 Taxonomy: every service request, classified",
+    description:
+      "2,225,151 Toronto 311 service requests (2022-2026) normalized into a versioned taxonomy: division, section, request type. Ward backlog analysis, REST API, OpenAPI docs, and MCP tools. Open data, MIT licensed.",
+    images: [`${SITE_URL}/og-image.png`],
+  },
   icons: {
     icon: [
       { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },

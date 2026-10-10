@@ -8,7 +8,7 @@ import "./globals.css";
 import { LangProvider } from "@/i18n";
 import { PosthogProvider } from "../components/PosthogProvider";
 
-const SITE_URL = "https://toronto-311-taxonomy.vercel.app";
+const SITE_URL = "https://311.canada.nshipyard.com";
 
 export const metadata: Metadata = {
   title: "Toronto 311 Taxonomy: every service request, classified",
